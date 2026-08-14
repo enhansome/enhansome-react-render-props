@@ -33,7 +33,7 @@
             "last_commit": "2024-01-05T12:11:49Z",
             "owner": "chenglou",
             "repo": "react-motion",
-            "stars": 21913
+            "stars": 21915
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2025-11-10T17:02:06Z",
             "owner": "jaredpalmer",
             "repo": "formik",
-            "stars": 34332
+            "stars": 34331
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:45:03Z",
+            "last_commit": "2026-08-13T17:52:58Z",
             "owner": "TanStack",
             "repo": "form",
-            "stars": 6652
+            "stars": 6656
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-06-30T07:36:06Z",
             "owner": "downshift-js",
             "repo": "downshift",
-            "stars": 12311
+            "stars": 12312
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2023-09-11T02:47:52Z",
             "owner": "jamiebuilds",
             "repo": "unstated",
-            "stars": 7722
+            "stars": 7721
           }
         },
         {
@@ -438,10 +438,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:07:34Z",
+            "last_commit": "2026-08-13T14:12:57Z",
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4004
+            "stars": 4003
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2026-04-07T23:05:12Z",
             "owner": "FormidableLabs",
             "repo": "nuka-carousel",
-            "stars": 3098
+            "stars": 3097
           }
         },
         {
@@ -823,7 +823,7 @@
             "last_commit": "2026-08-12T08:39:44Z",
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5537
+            "stars": 5538
           }
         },
         {
@@ -1098,7 +1098,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:48:42Z",
+            "last_commit": "2026-08-13T23:05:41Z",
             "owner": "wKovacs64",
             "repo": "react-native-responsive-image-view",
             "stars": 400
@@ -1109,7 +1109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:37.677Z",
+    "last_updated": "2026-08-14T04:43:31.874Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",

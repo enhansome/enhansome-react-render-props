@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T19:06:33Z",
             "owner": "pmndrs",
             "repo": "react-spring",
-            "stars": 29134
+            "stars": 29135
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2025-11-10T17:02:06Z",
             "owner": "jaredpalmer",
             "repo": "formik",
-            "stars": 34329
+            "stars": 34328
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2022-11-09T20:58:58Z",
             "owner": "sghall",
             "repo": "react-compound-slider",
-            "stars": 619
+            "stars": 618
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-12T17:05:36Z",
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8967
+            "stars": 8966
           }
         },
         {
@@ -438,7 +438,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:00:18Z",
+            "last_commit": "2026-08-16T21:26:41Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4003
@@ -713,7 +713,7 @@
             "last_commit": "2026-04-07T23:05:12Z",
             "owner": "FormidableLabs",
             "repo": "nuka-carousel",
-            "stars": 3097
+            "stars": 3096
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2019-04-30T19:28:52Z",
             "owner": "leebyron",
             "repo": "react-loops",
-            "stars": 1159
+            "stars": 1158
           }
         },
         {
@@ -1109,7 +1109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:41:09.242Z",
+    "last_updated": "2026-08-17T03:42:54.555Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",

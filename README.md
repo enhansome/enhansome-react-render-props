@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,132 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-18: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,133 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-18: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,917 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,559 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,547 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-10: Morphing Ui transitions made simple
@@ -48,13 +48,13 @@ Awesome list of React components with render props and resources.
 ### Routing
 
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,555 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-18: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,556 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-18: Declarative routing for React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,323 | 🐛 838 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,323 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,439 | 🐛 377 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,662 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-18: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,662 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-19: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -63,7 +63,7 @@ Awesome list of React components with render props and resources.
 
 ### Inputs
 
-* [downshift](https://github.com/paypal/downshift) ⭐ 12,311 | 🐛 56 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+* [downshift](https://github.com/paypal/downshift) ⭐ 12,310 | 🐛 56 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 * [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 667 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 * [react-compound-slider](https://github.com/sghall/react-compound-slider) ⭐ 618 | 🐛 24 | 🌐 TypeScript | 📅 2022-11-09: React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 * [@navjobs/upload](https://github.com/navjobs/upload) ⚠️ Archived: Higher order React components for file uploading (with progress) react file upload
@@ -72,7 +72,7 @@ Awesome list of React components with render props and resources.
 
 ### Data
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,967 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-12: Universal React Query Library
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,967 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12: Universal React Query Library
 * [unstated](https://github.com/thejameskyle/unstated) ⭐ 7,721 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11: Share state between components with the same stateful component API
 * [react-apollo](https://github.com/apollographql/react-apollo) ⚠️ Archived: ♻️ React integration for Apollo Client
 * [constate](https://github.com/diegohaz/constate) ⭐ 4,004 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18: React context + state = constate

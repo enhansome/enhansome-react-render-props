@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:06:33Z",
+            "last_commit": "2026-08-18T07:54:40Z",
             "owner": "pmndrs",
             "repo": "react-spring",
             "stars": 29132
@@ -33,7 +33,7 @@
             "last_commit": "2024-01-05T12:11:49Z",
             "owner": "chenglou",
             "repo": "react-motion",
-            "stars": 21916
+            "stars": 21917
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33951
+            "stars": 33950
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2025-11-10T17:02:06Z",
             "owner": "jaredpalmer",
             "repo": "formik",
-            "stars": 34324
+            "stars": 34323
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:22:20Z",
+            "last_commit": "2026-08-18T06:29:26Z",
             "owner": "TanStack",
             "repo": "form",
-            "stars": 6661
+            "stars": 6662
           }
         },
         {
@@ -438,10 +438,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:52:55Z",
+            "last_commit": "2026-08-18T22:06:31Z",
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4003
+            "stars": 4004
           }
         },
         {
@@ -820,7 +820,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T08:39:44Z",
+            "last_commit": "2026-08-18T15:25:26Z",
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
             "stars": 5538
@@ -1098,7 +1098,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T19:23:51Z",
+            "last_commit": "2026-08-19T02:57:37Z",
             "owner": "wKovacs64",
             "repo": "react-native-responsive-image-view",
             "stars": 401
@@ -1109,7 +1109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:37:50.870Z",
+    "last_updated": "2026-08-19T03:39:40.285Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",

@@ -166,7 +166,7 @@
                 "last_commit": "2025-08-18T04:35:31Z",
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33948
+                "stars": 33947
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-21T15:24:33Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6665
+                "stars": 6666
               }
             },
             {
@@ -424,7 +424,7 @@
                 "archived": false,
                 "id": 118695306,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:08:07Z",
+                "last_commit": "2026-08-22T16:07:52Z",
                 "owner": "urql-graphql",
                 "repo": "urql",
                 "stars": 8966
@@ -442,7 +442,7 @@
                 "last_commit": "2023-09-11T02:47:52Z",
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7721
+                "stars": 7722
               }
             },
             {
@@ -469,7 +469,7 @@
                 "archived": false,
                 "id": 127461319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:32:04Z",
+                "last_commit": "2026-08-22T19:02:10Z",
                 "owner": "diegohaz",
                 "repo": "constate",
                 "stars": 4004
@@ -880,7 +880,7 @@
                 "archived": false,
                 "id": 90013055,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T15:25:26Z",
+                "last_commit": "2026-08-22T21:44:23Z",
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
                 "stars": 5538
@@ -1172,7 +1172,7 @@
                 "archived": false,
                 "id": 113911575,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:04:49Z",
+                "last_commit": "2026-08-22T13:13:49Z",
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 400
@@ -1188,7 +1188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:35:45.009Z",
+    "last_updated": "2026-08-23T03:43:18.747Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_id": 114271505,
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",

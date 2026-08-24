@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T19:12:20Z",
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29135
+                "stars": 29136
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-01-07T03:56:01Z",
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6557
+                "stars": 6556
               }
             },
             {
@@ -208,6 +208,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "react-router",
+              "description": "Declarative routing for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19872456,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:04:25Z",
+                "owner": "remix-run",
+                "repo": "react-router",
+                "stars": 56572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Routing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "formik",
               "description": "Forms in React, without tears 😭",
               "children": [],
@@ -218,7 +240,7 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34329
+                "stars": 34330
               }
             },
             {
@@ -248,7 +270,7 @@
                 "last_commit": "2026-08-21T15:24:33Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6666
+                "stars": 6669
               }
             },
             {
@@ -880,7 +902,7 @@
                 "archived": false,
                 "id": 90013055,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T21:50:57Z",
+                "last_commit": "2026-08-24T13:40:43Z",
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
                 "stars": 5538
@@ -1188,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:47:03.156Z",
+    "last_updated": "2026-08-24T14:10:48.831Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_id": 114271505,
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",

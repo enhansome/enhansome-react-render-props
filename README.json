@@ -32,7 +32,7 @@
                 "last_commit": "2024-01-05T12:11:49Z",
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21913
+                "stars": 21914
               }
             },
             {
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:04:25Z",
+                "last_commit": "2026-08-24T18:58:59Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56572
+                "stars": 56571
               }
             }
           ],
@@ -240,7 +240,7 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34330
+                "stars": 34331
               }
             },
             {
@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 75044525,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:24:33Z",
+                "last_commit": "2026-08-25T01:56:33Z",
                 "owner": "TanStack",
                 "repo": "form",
                 "stars": 6669
@@ -786,7 +786,7 @@
                 "last_commit": "2026-04-07T23:05:12Z",
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3096
+                "stars": 3097
               }
             },
             {
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:48.831Z",
+    "last_updated": "2026-08-25T03:41:27.846Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_id": 114271505,
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",

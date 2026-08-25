@@ -27,7 +27,7 @@ Awesome list of React components with render props and resources.
 ### Animation
 
 * [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,136 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19: 🙌 Helping react-motion and animated to become best friends
-* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,913 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
+* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,914 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,556 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,547 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
 * [react-prop-transition](https://github.com/imranolas/react-prop-transition) ⭐ 57 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-06: Transition *almost* any value over time.
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,572 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-24: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,571 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-24: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,330 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,331 | 🐛 839 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,439 | 🐛 377 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,669 | 🐛 177 | 🌐 TypeScript | 📅 2026-08-21: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,669 | 🐛 179 | 🌐 TypeScript | 📅 2026-08-25: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -97,7 +97,7 @@ Awesome list of React components with render props and resources.
 
 ### Media
 
-* [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) ⭐ 3,096 | 🐛 25 | 🌐 TypeScript | 📅 2026-04-07: React Carousel Component
+* [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) ⭐ 3,097 | 🐛 25 | 🌐 TypeScript | 📅 2026-04-07: React Carousel Component
 * [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image) ⚠️ Archived: React component for progressive image loading
 * [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2019-05-28: Module for dealing with custom web fonts
 * [react-power-picture](https://github.com/tvthatsme/react-power-picture) ⚠️ Archived: Progressively load an image srcset for maximum responsiveness and performance
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

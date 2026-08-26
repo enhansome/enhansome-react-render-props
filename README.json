@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T19:12:20Z",
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29136
+                "stars": 29137
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-01-05T12:11:49Z",
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21914
+                "stars": 21913
               }
             },
             {
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:58:59Z",
+                "last_commit": "2026-08-25T20:32:53Z",
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56571
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-25T01:56:33Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6669
+                "stars": 6670
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-06-30T07:36:06Z",
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12309
+                "stars": 12307
               }
             },
             {
@@ -449,7 +449,7 @@
                 "last_commit": "2026-08-22T16:07:52Z",
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8966
+                "stars": 8967
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "archived": false,
                 "id": 113911575,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T13:13:49Z",
+                "last_commit": "2026-08-25T23:06:17Z",
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 400
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:57.104Z",
+    "last_updated": "2026-08-26T03:46:50.547Z",
     "original_repository": "jaredpalmer/awesome-react-render-props",
     "original_repository_id": 114271505,
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",

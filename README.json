@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 124257233,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T19:12:20Z",
+                "last_commit": "2026-08-26T18:36:07Z",
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29137
+                "stars": 29140
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-01-05T12:11:49Z",
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21913
+                "stars": 21915
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2025-08-18T04:35:31Z",
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33947
+                "stars": 33945
               }
             },
             {
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:32:53Z",
+                "last_commit": "2026-08-26T17:28:12Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56571
+                "stars": 56573
               }
             }
           ],
@@ -240,7 +240,7 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34331
+                "stars": 34330
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-05-30T16:12:22Z",
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7439
+                "stars": 7440
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 75044525,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T01:56:33Z",
+                "last_commit": "2026-08-27T10:06:15Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6670
+                "stars": 6673
               }
             },
             {
@@ -491,10 +491,10 @@
                 "archived": false,
                 "id": 127461319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T06:13:02Z",
+                "last_commit": "2026-08-27T07:15:08Z",
                 "owner": "diegohaz",
                 "repo": "constate",
-                "stars": 4004
+                "stars": 4005
               }
             },
             {
@@ -902,7 +902,7 @@
                 "archived": false,
                 "id": 90013055,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:40:43Z",
+                "last_commit": "2026-08-26T12:28:18Z",
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
                 "stars": 5538
@@ -1194,10 +1194,10 @@
                 "archived": false,
                 "id": 113911575,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:06:17Z",
+                "last_commit": "2026-08-27T01:17:35Z",
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
-                "stars": 400
+                "stars": 401
               }
             }
           ],
@@ -1210,9 +1210,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:46:50.547Z",
-    "original_repository": "jaredpalmer/awesome-react-render-props",
-    "original_repository_id": 114271505,
+    "last_updated": "2026-08-27T12:02:08.648Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 114271505,
+      "language": null,
+      "last_commit": "2019-04-04T19:04:00Z",
+      "owner": "jaredpalmer",
+      "repo": "awesome-react-render-props",
+      "stars": 1389
+    },
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",
     "enhanced_repository_description": null,

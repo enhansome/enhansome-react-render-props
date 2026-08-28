@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T18:36:07Z",
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29140
-              }
+                "stars": 29141
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2024-01-05T12:11:49Z",
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21915
-              }
+                "stars": 21913
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "sghall",
                 "repo": "react-move",
                 "stars": 6556
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "brunnolou",
                 "repo": "react-morph",
                 "stars": 2547
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "imranolas",
                 "repo": "react-prop-transition",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "pedronauck",
                 "repo": "react-adopt",
                 "stars": 1663
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "jamesplease",
                 "repo": "react-composer",
                 "stars": 607
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "gnapse",
                 "repo": "render-props-compose",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "danwang",
                 "repo": "retainer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -166,8 +175,9 @@
                 "last_commit": "2025-08-18T04:35:31Z",
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33945
-              }
+                "stars": 33946
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "chrisjpatty",
                 "repo": "react-dragtastic",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "nihgwu",
                 "repo": "stickyard",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -215,11 +227,12 @@
                 "archived": false,
                 "id": 19872456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T17:28:12Z",
+                "last_commit": "2026-08-28T14:44:11Z",
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56573
-              }
+                "stars": 56577
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -240,8 +253,9 @@
                 "last_commit": "2025-11-10T17:02:06Z",
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34330
-              }
+                "stars": 34329
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "final-form",
                 "repo": "react-final-form",
                 "stars": 7440
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -267,11 +282,12 @@
                 "archived": false,
                 "id": 75044525,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:06:15Z",
+                "last_commit": "2026-08-28T10:25:18Z",
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6673
-              }
+                "stars": 6675
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "semmiverian",
                 "repo": "react-form-validation",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "gianmarcotoso",
                 "repo": "react-attire",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "bradwestfall",
                 "repo": "informative",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "ericvaladas",
                 "repo": "react-uncontrolled-form",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -353,7 +373,8 @@
                 "owner": "downshift-js",
                 "repo": "downshift",
                 "stars": 12307
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "deseretdigital",
                 "repo": "dayzed",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "sghall",
                 "repo": "react-compound-slider",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "kimmelsg",
                 "repo": "cj-upload",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "kentcdodds",
                 "repo": "react-toggled",
                 "stars": 452
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "jxom",
                 "repo": "react-selected",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -450,7 +476,8 @@
                 "owner": "urql-graphql",
                 "repo": "urql",
                 "stars": 8967
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "jamiebuilds",
                 "repo": "unstated",
                 "stars": 7722
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "apollographql",
                 "repo": "react-apollo",
                 "stars": 6792
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -491,11 +520,12 @@
                 "archived": false,
                 "id": 127461319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:15:08Z",
+                "last_commit": "2026-08-27T15:57:04Z",
                 "owner": "diegohaz",
                 "repo": "constate",
                 "stars": 4005
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -510,7 +540,8 @@
                 "owner": "renatorib",
                 "repo": "react-powerplug",
                 "stars": 2674
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -525,7 +556,8 @@
                 "owner": "ianstormtaylor",
                 "repo": "react-values",
                 "stars": 1006
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -540,7 +572,8 @@
                 "owner": "anish000kumar",
                 "repo": "redux-box",
                 "stars": 703
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -555,7 +588,8 @@
                 "owner": "vesparny",
                 "repo": "statty",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -570,7 +604,8 @@
                 "owner": "jamesplease",
                 "repo": "react-request",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -585,7 +620,8 @@
                 "owner": "green-arrow",
                 "repo": "react-firestore",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -600,7 +636,8 @@
                 "owner": "tkh44",
                 "repo": "holen",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -615,7 +652,8 @@
                 "owner": "JedWatson",
                 "repo": "react-value",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -630,7 +668,8 @@
                 "owner": "tkh44",
                 "repo": "react-localforage",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -645,7 +684,8 @@
                 "owner": "jsonnull",
                 "repo": "redux-render",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -660,7 +700,8 @@
                 "owner": "KadoBOT",
                 "repo": "react-gizmo",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -675,7 +716,8 @@
                 "owner": "Corjen",
                 "repo": "react-data-sort",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -690,7 +732,8 @@
                 "owner": "flaviouk",
                 "repo": "react-redux-local",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -705,7 +748,8 @@
                 "owner": "axross",
                 "repo": "repromised",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -720,7 +764,8 @@
                 "owner": "axross",
                 "repo": "redebounce",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -735,7 +780,8 @@
                 "owner": "collardeau",
                 "repo": "react-with-state-props",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -750,7 +796,8 @@
                 "owner": "arturkulig",
                 "repo": "react-whisper",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -765,7 +812,8 @@
                 "owner": "kserjey",
                 "repo": "react-aqueduct",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -787,7 +835,8 @@
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
                 "stars": 3097
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -802,7 +851,8 @@
                 "owner": "FormidableLabs",
                 "repo": "react-progressive-image",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -817,7 +867,8 @@
                 "owner": "sbekrin",
                 "repo": "react-with-async-fonts",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -832,7 +883,8 @@
                 "owner": "tvthatsme",
                 "repo": "react-power-picture",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -854,7 +906,8 @@
                 "owner": "YurkaninRyan",
                 "repo": "react-sentinel",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -869,7 +922,8 @@
                 "owner": "jxom",
                 "repo": "react-t-minus",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -884,7 +938,8 @@
                 "owner": "rigobauer",
                 "repo": "react-pro-metronome",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -906,7 +961,8 @@
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
                 "stars": 5538
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -921,7 +977,8 @@
                 "owner": "jaredpalmer",
                 "repo": "react-fns",
                 "stars": 3700
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -936,7 +993,8 @@
                 "owner": "ReactTraining",
                 "repo": "react-media",
                 "stars": 2422
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -951,7 +1009,8 @@
                 "owner": "ctrlplusb",
                 "repo": "react-sizeme",
                 "stars": 1961
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1025,8 @@
                 "owner": "leebyron",
                 "repo": "react-loops",
                 "stars": 1158
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -980,8 +1040,9 @@
                 "last_commit": "2024-10-29T16:10:21Z",
                 "owner": "americanexpress",
                 "repo": "react-albus",
-                "stars": 1110
-              }
+                "stars": 1109
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -996,7 +1057,8 @@
                 "owner": "jxom",
                 "repo": "react-loads",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1073,8 @@
                 "owner": "tkh44",
                 "repo": "react-geolocation",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1089,8 @@
                 "owner": "petergombos",
                 "repo": "react-pledge",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1105,8 @@
                 "owner": "cedricdelpoux",
                 "repo": "react-google-maps-loader",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1121,8 @@
                 "owner": "ctrlplusb",
                 "repo": "react-virtual-container",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1137,8 @@
                 "owner": "gnapse",
                 "repo": "react-treefold",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1153,8 @@
                 "owner": "zanonnicola",
                 "repo": "react-device-battery",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1169,8 @@
                 "owner": "VinSpee",
                 "repo": "react-gcal-events-list",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1185,8 @@
                 "owner": "danieldelcore",
                 "repo": "react-render-fam",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1201,8 @@
                 "owner": "jonstuebe",
                 "repo": "react-useragent",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1217,8 @@
                 "owner": "sastan",
                 "repo": "react-render-callback",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1233,8 @@
                 "owner": "FriendsOfECMAScript",
                 "repo": "ReactI18nRouting",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -1183,7 +1256,8 @@
                 "owner": "kkemple",
                 "repo": "react-native-sideswipe",
                 "stars": 901
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             },
             {
               "node_type": "item",
@@ -1194,11 +1268,12 @@
                 "archived": false,
                 "id": 113911575,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:17:35Z",
+                "last_commit": "2026-08-28T01:18:18Z",
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
             }
           ],
           "description": null,
@@ -1210,7 +1285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:25:58.047Z",
+    "last_updated": "2026-08-28T14:45:46.993Z",
     "original_repository_info": {
       "archived": false,
       "id": 114271505,
@@ -1218,7 +1293,7 @@
       "last_commit": "2019-04-04T19:04:00Z",
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
-      "stars": 1389
+      "stars": 1390
     },
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",

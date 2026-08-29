@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✌️ A spring physics based React animation library",
+                "homepage": "http://www.react-spring.dev/",
                 "id": 124257233,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:36:07Z",
+                "open_issues": 74,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29141
+                "stars": 29141,
+                "topics": [
+                  "animation-library",
+                  "react",
+                  "react-spring",
+                  "spring-physics",
+                  "springs"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A spring that solves your animation problems.",
+                "homepage": null,
                 "id": 37246537,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-05T12:11:49Z",
+                "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21913
+                "stars": 21913,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -44,12 +60,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Move | Beautiful, data-driven animations for React",
+                "homepage": "https://react-move-docs.netlify.app",
                 "id": 85594810,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T03:56:01Z",
+                "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6556
+                "stars": 6555,
+                "topics": [
+                  "animate",
+                  "animation",
+                  "easing",
+                  "interpolation",
+                  "motion",
+                  "move",
+                  "movement",
+                  "react",
+                  "transition-animation"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -60,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Morphing Ui transitions made simple",
+                "homepage": "https://brunnolou.github.io/react-morph",
                 "id": 121180950,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-20T22:13:18Z",
+                "open_issues": 27,
                 "owner": "brunnolou",
                 "repo": "react-morph",
-                "stars": 2547
+                "stars": 2547,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -76,12 +112,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component for easing props values",
+                "homepage": null,
                 "id": 82393472,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T22:16:56Z",
+                "open_issues": 6,
                 "owner": "imranolas",
                 "repo": "react-prop-transition",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "easing-props-values",
+                  "props",
+                  "react",
+                  "transition"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -99,12 +145,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sunglasses: Compose render props components like a pro",
+                "homepage": null,
                 "id": 127371474,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T09:01:35Z",
+                "open_issues": 26,
                 "owner": "pedronauck",
                 "repo": "react-adopt",
-                "stars": 1663
+                "stars": 1663,
+                "topics": [
+                  "compose",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -115,12 +170,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compose render prop components",
+                "homepage": null,
                 "id": 118290693,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-28T19:21:52Z",
+                "open_issues": 3,
                 "owner": "jamesplease",
                 "repo": "react-composer",
-                "stars": 607
+                "stars": 607,
+                "topics": [
+                  "props",
+                  "react",
+                  "render"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -131,12 +195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compose several nested render props components into a single one",
+                "homepage": null,
                 "id": 119716031,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-06-08T22:07:55Z",
+                "open_issues": 4,
                 "owner": "gnapse",
                 "repo": "render-props-compose",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -147,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 126143212,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-03-24T00:38:30Z",
+                "open_issues": 0,
                 "owner": "danwang",
                 "repo": "retainer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -170,12 +244,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Beautiful and accessible drag and drop for lists with React",
+                "homepage": "https://react-beautiful-dnd.netlify.app",
                 "id": 99761907,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-18T04:35:31Z",
+                "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33946
+                "stars": 33946,
+                "topics": [
+                  "dnd",
+                  "drag",
+                  "drag-and-drop",
+                  "react",
+                  "reordering",
+                  "sortable"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -186,12 +272,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple drag and drop library for React which uses the more stable mouseDown/mouseUp event pattern instead of the problematic HTML5 drag and drop API",
+                "homepage": "https://react-dragtastic.netlify.app/",
                 "id": 94812260,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-12T09:50:09Z",
+                "open_issues": 56,
                 "owner": "chrisjpatty",
                 "repo": "react-dragtastic",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "dnd",
+                  "drag-and-drop",
+                  "draggable",
+                  "droppable",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -202,12 +299,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your React component sticky the easy way",
+                "homepage": "https://nihgwu.github.io/stickyard/",
                 "id": 142951537,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-26T11:13:04Z",
+                "open_issues": 40,
                 "owner": "nihgwu",
                 "repo": "stickyard",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "component",
+                  "react",
+                  "render-props",
+                  "sticky"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -225,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative routing for React",
+                "homepage": "https://reactrouter.com",
                 "id": 19872456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:44:11Z",
+                "open_issues": 170,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56577
+                "stars": 56577,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -248,12 +360,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build forms in React, without the tears 😭 ",
+                "homepage": "https://formik.org",
                 "id": 94367677,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-10T17:02:06Z",
+                "open_issues": 839,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34329
+                "stars": 34329,
+                "topics": [
+                  "form",
+                  "formik",
+                  "forms",
+                  "higher-order-component",
+                  "hooks",
+                  "react",
+                  "react-hooks",
+                  "react-native",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -264,12 +391,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏁 High performance subscription-based form state management for React",
+                "homepage": "https://final-form.org/react",
                 "id": 111738332,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-30T16:12:22Z",
+                "open_issues": 377,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7440
+                "stars": 7440,
+                "topics": [
+                  "asynchronous",
+                  "form",
+                  "form-validation",
+                  "forms",
+                  "react",
+                  "state-management",
+                  "subscription",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -280,12 +421,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+                "homepage": "https://tanstack.com/form",
                 "id": 75044525,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
+                "open_issues": 181,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6675
+                "stars": 6676,
+                "topics": [
+                  "angular",
+                  "form",
+                  "forms",
+                  "hacktoberfest",
+                  "hooks",
+                  "lit",
+                  "react",
+                  "solid",
+                  "tanstack",
+                  "vue",
+                  "yup",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -296,12 +455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Form Validation for React using render props ",
+                "homepage": null,
                 "id": 138063706,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-23T16:43:53Z",
+                "open_issues": 6,
                 "owner": "semmiverian",
                 "repo": "react-form-validation",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "form-validation",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -312,12 +480,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dress code for your React forms",
+                "homepage": null,
                 "id": 106260895,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-11-03T15:49:12Z",
+                "open_issues": 1,
                 "owner": "gianmarcotoso",
                 "repo": "react-attire",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "forms",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -328,12 +504,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React Forms with ease. Use render-props to broadcast state changes for the Form and Field. Also first-class support for re-usable FieldWraps",
+                "homepage": null,
                 "id": 84663416,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-14T07:04:38Z",
+                "open_issues": 4,
                 "owner": "bradwestfall",
                 "repo": "informative",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "forms",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -344,12 +529,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2kb library for building forms and validation with uncontrolled fields in React.",
+                "homepage": null,
                 "id": 66894698,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T16:34:58Z",
+                "open_issues": 17,
                 "owner": "ericvaladas",
                 "repo": "react-uncontrolled-form",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "fields",
+                  "form",
+                  "react",
+                  "uncontrolled",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -367,12 +563,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.",
+                "homepage": "http://downshift-js.com/",
                 "id": 98315735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T07:36:06Z",
+                "open_issues": 57,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12307
+                "stars": 12307,
+                "topics": [
+                  "accessible",
+                  "autocomplete",
+                  "autosuggest",
+                  "combobox",
+                  "dropdown",
+                  "multiselect",
+                  "react",
+                  "select",
+                  "taggroup",
+                  "tags",
+                  "wai-aria"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -383,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.",
+                "homepage": "https://dayzed.netlify.app",
                 "id": 108016336,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-31T19:16:50Z",
+                "open_issues": 9,
                 "owner": "deseretdigital",
                 "repo": "dayzed",
-                "stars": 667
+                "stars": 667,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -399,12 +617,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles",
+                "homepage": "https://react-compound-slider.netlify.com",
                 "id": 99958377,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-09T20:58:58Z",
+                "open_issues": 24,
                 "owner": "sghall",
                 "repo": "react-compound-slider",
-                "stars": 618
+                "stars": 618,
+                "topics": [
+                  "javascript",
+                  "multi-slider",
+                  "react",
+                  "react-component",
+                  "slider",
+                  "slider-component",
+                  "slider-range",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -415,12 +647,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Higher order React components for file uploading (with progress) react file upload",
+                "homepage": null,
                 "id": 66902250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-09T01:20:28Z",
+                "open_issues": 12,
                 "owner": "kimmelsg",
                 "repo": "cj-upload",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "file",
+                  "file-upload",
+                  "progress",
+                  "react",
+                  "react-components",
+                  "upload",
+                  "upload-dialog",
+                  "xhr"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -431,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Component to build simple, flexible, and accessible toggle components",
+                "homepage": "https://codesandbox.io/s/m38674w9vy",
                 "id": 102029612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-27T03:35:30Z",
+                "open_issues": 4,
                 "owner": "kentcdodds",
                 "repo": "react-toggled",
-                "stars": 452
+                "stars": 452,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -447,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component to build flexible and accessible radio buttons/elements.",
+                "homepage": "https://jxom.github.io/react-selected/",
                 "id": 136447396,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-18T00:37:28Z",
+                "open_issues": 1,
                 "owner": "jxom",
                 "repo": "react-selected",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -470,12 +726,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.",
+                "homepage": "https://urql.dev",
                 "id": 118695306,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T16:07:52Z",
+                "open_issues": 30,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8967
+                "stars": 8967,
+                "topics": [
+                  "complex-apps",
+                  "exchange",
+                  "graphql",
+                  "graphql-client",
+                  "graphql-clients"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -486,12 +753,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State so simple, it goes without saying",
+                "homepage": null,
                 "id": 119693982,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-11T02:47:52Z",
+                "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7722
+                "stars": 7722,
+                "topics": [
+                  "management",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -502,12 +778,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":recycle: React integration for Apollo Client",
+                "homepage": "https://www.apollographql.com/docs/react/",
                 "id": 56192185,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-13T21:00:49Z",
+                "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6792
+                "stars": 6792,
+                "topics": [
+                  "apollo",
+                  "graphql",
+                  "react",
+                  "redux",
+                  "ssr"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -518,12 +805,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Context + State",
+                "homepage": "https://github.com/diegohaz/constate",
                 "id": 127461319,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:57:04Z",
+                "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
-                "stars": 4005
+                "stars": 4005,
+                "topics": [
+                  "constate",
+                  "hooks",
+                  "react",
+                  "react-context",
+                  "react-hooks",
+                  "react-state",
+                  "reactjs",
+                  "reakit",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -534,12 +836,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":electric_plug: Renderless Containers",
+                "homepage": "https://renatorib.github.io/react-powerplug",
                 "id": 103083633,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-08T04:50:48Z",
+                "open_issues": 12,
                 "owner": "renatorib",
                 "repo": "react-powerplug",
-                "stars": 2674
+                "stars": 2674,
+                "topics": [
+                  "dumb",
+                  "dumb-components",
+                  "javascript",
+                  "react",
+                  "react-component",
+                  "render-props",
+                  "renderless",
+                  "renderless-components",
+                  "state",
+                  "state-container"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -550,12 +868,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of tiny React components for handling state with render props.",
+                "homepage": "https://git.io/react-values",
                 "id": 140340857,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-03-05T10:55:57Z",
+                "open_issues": 6,
                 "owner": "ianstormtaylor",
                 "repo": "react-values",
-                "stars": 1006
+                "stars": 1006,
+                "topics": [
+                  "components",
+                  "headless",
+                  "react",
+                  "render-props",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -566,12 +895,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular and easy-to-grasp redux  based state management, with least boilerplate",
+                "homepage": null,
                 "id": 116676440,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-09T22:25:10Z",
+                "open_issues": 8,
                 "owner": "anish000kumar",
                 "repo": "redux-box",
-                "stars": 703
+                "stars": 703,
+                "topics": [
+                  "react",
+                  "redux",
+                  "redux-saga"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -582,12 +920,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny and unobtrusive state management library for React and Preact apps",
+                "homepage": null,
                 "id": 97232967,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-09-21T16:30:41Z",
+                "open_issues": 1,
                 "owner": "vesparny",
                 "repo": "statty",
-                "stars": 506
+                "stars": 506,
+                "topics": [
+                  "management",
+                  "preact",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -598,12 +946,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Declarative HTTP requests for React",
+                "homepage": null,
                 "id": 118081035,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-11T18:12:59Z",
+                "open_issues": 19,
                 "owner": "jamesplease",
                 "repo": "react-request",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "fetch",
+                  "http",
+                  "react",
+                  "request"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -614,12 +972,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React components to fetch data from firestore using render props",
+                "homepage": null,
                 "id": 117615369,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T09:03:44Z",
+                "open_issues": 41,
                 "owner": "green-arrow",
                 "repo": "react-firestore",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "firebase",
+                  "firestore",
+                  "firestore-database",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -630,12 +999,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative fetch for React",
+                "homepage": null,
                 "id": 90181922,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-21T20:53:52Z",
+                "open_issues": 13,
                 "owner": "tkh44",
                 "repo": "holen",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "declarative",
+                  "fetch",
+                  "react",
+                  "react-fetch",
+                  "request",
+                  "response"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -646,12 +1027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adding Value to React",
+                "homepage": null,
                 "id": 114248745,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-08T22:08:31Z",
+                "open_issues": 1,
                 "owner": "JedWatson",
                 "repo": "react-value",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -662,12 +1048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👨‍🌾 Declarative localForage in React",
+                "homepage": null,
                 "id": 100742142,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-27T17:19:17Z",
+                "open_issues": 2,
                 "owner": "tkh44",
                 "repo": "react-localforage",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -678,12 +1069,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ergonomic Redux bindings for React using render functions",
+                "homepage": null,
                 "id": 104778300,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-16T04:30:50Z",
+                "open_issues": 1,
                 "owner": "jsonnull",
                 "repo": "redux-render",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "react",
+                  "reactjs",
+                  "redux",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -694,12 +1095,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🦎 React Gizmo - UI Finite State Machine for React",
+                "homepage": null,
                 "id": 120078074,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-17T00:53:54Z",
+                "open_issues": 0,
                 "owner": "KadoBOT",
                 "repo": "react-gizmo",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "flow",
+                  "react",
+                  "state-machine",
+                  "transition",
+                  "xstate"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -710,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component to sort and paginate data",
+                "homepage": null,
                 "id": 111913015,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T21:47:27Z",
+                "open_issues": 34,
                 "owner": "Corjen",
                 "repo": "react-data-sort",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -726,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small, yet powerful version of react-redux, out of the box support for the new context api and any middleware",
+                "homepage": null,
                 "id": 112882745,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-08-16T20:52:22Z",
+                "open_issues": 0,
                 "owner": "flaviouk",
                 "repo": "react-redux-local",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -742,12 +1164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤝 Declarative promise resolver as a render props component",
+                "homepage": null,
                 "id": 143054616,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-02-20T07:07:42Z",
+                "open_issues": 0,
                 "owner": "axross",
                 "repo": "repromised",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "promise",
+                  "react",
+                  "react-native",
+                  "render-props",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -758,12 +1191,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "↘️ Render Props component to debounce the given value",
+                "homepage": null,
                 "id": 143197843,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-10-20T01:20:41Z",
+                "open_issues": 1,
                 "owner": "axross",
                 "repo": "redebounce",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "debounce",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -774,12 +1216,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A container render-prop component to initialize, handle and derive state in React.",
+                "homepage": null,
                 "id": 123945250,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-03-30T10:26:44Z",
+                "open_issues": 0,
                 "owner": "collardeau",
                 "repo": "react-with-state-props",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "react",
+                  "react-component",
+                  "state-props",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -790,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple state management library for React",
+                "homepage": "https://arturkulig.github.io/react-whisper/",
                 "id": 126802582,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-10-16T11:19:47Z",
+                "open_issues": 0,
                 "owner": "arturkulig",
                 "repo": "react-whisper",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -806,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The bridge to convey data",
+                "homepage": null,
                 "id": 125822811,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T00:53:02Z",
+                "open_issues": 28,
                 "owner": "kserjey",
                 "repo": "react-aqueduct",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -829,12 +1291,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.",
+                "homepage": "https://commerce.nearform.com/open-source/nuka-carousel",
                 "id": 34282759,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-07T23:05:12Z",
+                "open_issues": 25,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3097
+                "stars": 3097,
+                "topics": [
+                  "carousel",
+                  "javascript",
+                  "nuka-carousel",
+                  "react",
+                  "reactjs",
+                  "slide"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -845,12 +1319,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React component for progressive image loading",
+                "homepage": null,
                 "id": 69593600,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-08-19T13:39:23Z",
+                "open_issues": 6,
                 "owner": "FormidableLabs",
                 "repo": "react-progressive-image",
-                "stars": 724
+                "stars": 724,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -861,12 +1340,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔠 React module for working with custom web fonts",
+                "homepage": "https://npmjs.com/react-with-async-fonts",
                 "id": 89772043,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-05-28T20:21:44Z",
+                "open_issues": 6,
                 "owner": "sbekrin",
                 "repo": "react-with-async-fonts",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "fontfaceobserver",
+                  "fonts",
+                  "react",
+                  "react-hoc",
+                  "render-prop",
+                  "web-fonts",
+                  "with-async-fonts"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -877,12 +1369,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Zero-dependency React component for progressively loading your images",
+                "homepage": "https://www.npmjs.com/package/react-power-picture",
                 "id": 135445131,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-10T14:05:04Z",
+                "open_issues": 19,
                 "owner": "tvthatsme",
                 "repo": "react-power-picture",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "images",
+                  "loading",
+                  "performance",
+                  "progressive",
+                  "react",
+                  "render-props",
+                  "responsive"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -900,12 +1405,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Component that abstracts away requestAnimationFrame, allowing you to set props by monitoring anything in the document!",
+                "homepage": "https://ryanyurkan.in/react-sentinel",
                 "id": 120055682,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-26T15:17:56Z",
+                "open_issues": 0,
                 "owner": "YurkaninRyan",
                 "repo": "react-sentinel",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "monitoring",
+                  "react",
+                  "render-props",
+                  "requestanimationframe"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -916,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component to handle simple countdowns",
+                "homepage": "https://jxom.github.io/react-t-minus/",
                 "id": 137025672,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-18T00:39:12Z",
+                "open_issues": 1,
                 "owner": "jxom",
                 "repo": "react-t-minus",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -932,12 +1452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component to create a Metronome that uses render props, so you can decide what you want to render.",
+                "homepage": null,
                 "id": 120270594,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-21T07:59:18Z",
+                "open_issues": 1,
                 "owner": "rigobauer",
                 "repo": "react-pro-metronome",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -955,12 +1480,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.",
+                "homepage": "https://roi.thebuilder.dk",
                 "id": 90013055,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:28:18Z",
+                "open_issues": 0,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5538
+                "stars": 5538,
+                "topics": [
+                  "hook",
+                  "hooks",
+                  "intersection-observer",
+                  "intersectionobserver",
+                  "intersectionobserver-api",
+                  "lazy-loading",
+                  "monitor",
+                  "performance",
+                  "react",
+                  "react-hooks",
+                  "reactjs",
+                  "scrolling",
+                  "viewport",
+                  "visibility"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -971,12 +1516,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser API's turned into declarative React components and HoC's",
+                "homepage": null,
                 "id": 106959954,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-24T22:42:49Z",
+                "open_issues": 3,
                 "owner": "jaredpalmer",
                 "repo": "react-fns",
-                "stars": 3700
+                "stars": 3700,
+                "topics": [
+                  "hoc",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -987,12 +1541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSS media queries for React",
+                "homepage": null,
                 "id": 64814946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-15T09:45:27Z",
+                "open_issues": 8,
                 "owner": "ReactTraining",
                 "repo": "react-media",
-                "stars": 2422
+                "stars": 2422,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1003,12 +1562,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your React Components aware of their width and height!",
+                "homepage": null,
                 "id": 56064721,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T03:38:51Z",
+                "open_issues": 34,
                 "owner": "ctrlplusb",
                 "repo": "react-sizeme",
-                "stars": 1961
+                "stars": 1961,
+                "topics": [
+                  "element-queries",
+                  "element-query",
+                  "react",
+                  "react-component",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1019,12 +1589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Loops works with React Hooks as part of the React Velcro Architecture",
+                "homepage": null,
                 "id": 178903387,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-30T19:28:52Z",
+                "open_issues": 2,
                 "owner": "leebyron",
                 "repo": "react-loops",
-                "stars": 1158
+                "stars": 1158,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1035,12 +1610,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ React component library for building declarative multi-step flows.",
+                "homepage": null,
                 "id": 82104729,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-29T16:10:21Z",
+                "open_issues": 16,
                 "owner": "americanexpress",
                 "repo": "react-albus",
-                "stars": 1109
+                "stars": 1109,
+                "topics": [
+                  "multi-step",
+                  "one-app",
+                  "react",
+                  "wizard"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1051,12 +1636,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React Loads is a backend agnostic library to help with external data fetching & caching in your UI components.",
+                "homepage": null,
                 "id": 118452309,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-10T02:51:07Z",
+                "open_issues": 4,
                 "owner": "jxom",
                 "repo": "react-loads",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "hook",
+                  "loading",
+                  "loads",
+                  "promise",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1067,12 +1664,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌎🛰 Declarative geolocation for React",
+                "homepage": "https://tkh44.github.io/react-geolocation/",
                 "id": 100158114,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-12-17T22:50:38Z",
+                "open_issues": 2,
                 "owner": "tkh44",
                 "repo": "react-geolocation",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "declarative",
+                  "geolocation",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1083,12 +1689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative way to track promise lifecycle states using \"render props\" 🕶",
+                "homepage": null,
                 "id": 131430630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-07T11:04:53Z",
+                "open_issues": 0,
                 "owner": "petergombos",
                 "repo": "react-pledge",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1099,12 +1710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple loader to use google maps services into your react applications",
+                "homepage": "https://cedricdelpoux.github.io/react-google-maps-loader",
                 "id": 42185167,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-17T11:14:46Z",
+                "open_issues": 4,
                 "owner": "cedricdelpoux",
                 "repo": "react-google-maps-loader",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1115,12 +1731,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimise your React apps by only rendering components when in proximity to the viewport.",
+                "homepage": null,
                 "id": 140418879,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-13T15:50:57Z",
+                "open_issues": 2,
                 "owner": "ctrlplusb",
                 "repo": "react-virtual-container",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "performance",
+                  "react",
+                  "render-props",
+                  "virtual",
+                  "windowing"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1131,12 +1758,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A renderless tree component for your hierarchical React views",
+                "homepage": "http://treefold.netlify.com/",
                 "id": 121254131,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-02-27T12:38:26Z",
+                "open_issues": 1,
                 "owner": "gnapse",
                 "repo": "react-treefold",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "hierarchy-viewer",
+                  "react",
+                  "reactjs",
+                  "render-props",
+                  "renderless",
+                  "renderless-components",
+                  "tree",
+                  "tree-structure",
+                  "treeview"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1147,12 +1789,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notifies your React app of the device battery status",
+                "homepage": null,
                 "id": 104652620,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-02-25T11:37:20Z",
+                "open_issues": 0,
                 "owner": "zanonnicola",
                 "repo": "react-device-battery",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "battery",
+                  "javascript",
+                  "react-component"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1163,12 +1814,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Reusable react component that pulls events from your google calendar.",
+                "homepage": null,
                 "id": 20783827,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-26T08:16:08Z",
+                "open_issues": 2,
                 "owner": "VinSpee",
                 "repo": "react-gcal-events-list",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "calendar",
+                  "google-calendar",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1179,12 +1839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Lit components for conditional rendering in React, Fam 😎",
+                "homepage": null,
                 "id": 132749579,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-01T23:15:24Z",
+                "open_issues": 4,
                 "owner": "danieldelcore",
                 "repo": "react-render-fam",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1195,12 +1860,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Higher order component to add user agent information to your react components",
+                "homepage": null,
                 "id": 89261614,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-02T18:18:18Z",
+                "open_issues": 0,
                 "owner": "jonstuebe",
                 "repo": "react-useragent",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "hoc",
+                  "javascript",
+                  "react",
+                  "reactjs",
+                  "useragent"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1211,12 +1887,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "render-prop helper to render anything (Functions, Components, Elements, ...)",
+                "homepage": null,
                 "id": 147655916,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-05-31T00:02:34Z",
+                "open_issues": 16,
                 "owner": "sastan",
                 "repo": "react-render-callback",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "component-injection",
+                  "function-as-child",
+                  "function-as-child-pattern",
+                  "react",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1227,12 +1914,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 Abstraction layer over React-Router to create i18n routes easily.",
+                "homepage": "https://www.npm.im/@foes/react-i18n-routing",
                 "id": 136060425,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-02T11:17:26Z",
+                "open_issues": 15,
                 "owner": "FriendsOfECMAScript",
                 "repo": "ReactI18nRouting",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "i18n",
+                  "internationalization",
+                  "react",
+                  "react-router",
+                  "reactjs",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -1250,12 +1949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple React Native carousel with sensible defaults",
+                "homepage": null,
                 "id": 120023362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-09-21T02:02:05Z",
+                "open_issues": 42,
                 "owner": "kkemple",
                 "repo": "react-native-sideswipe",
-                "stars": 901
+                "stars": 901,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1266,12 +1970,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native component for scaling an Image within the parent View",
+                "homepage": "https://snack.expo.dev/@wkovacs64/responsiveimageview",
                 "id": 113911575,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:18:18Z",
+                "open_issues": 3,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
-                "stars": 401
+                "stars": 401,
+                "topics": [
+                  "image",
+                  "react",
+                  "react-native",
+                  "react-native-component",
+                  "responsive-images",
+                  "view"
+                ]
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             }
@@ -1285,15 +2001,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:45:46.993Z",
+    "last_updated": "2026-08-29T04:31:19.822Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of React components with render props",
+      "homepage": null,
       "id": 114271505,
       "language": null,
+      "license": null,
       "last_commit": "2019-04-04T19:04:00Z",
+      "open_issues": 5,
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
-      "stars": 1390
+      "stars": 1390,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hoc",
+        "react",
+        "render-prop"
+      ]
     },
     "original_repository_sha": "a360e61a483cab66773967c2e06b7b84e74f7bda",
     "enhanced_repository": "enhansome/enhansome-react-render-props",

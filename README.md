@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,141 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-26: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,142 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-26: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,913 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,555 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,547 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
@@ -47,7 +47,7 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,577 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-28: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,576 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-28: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms

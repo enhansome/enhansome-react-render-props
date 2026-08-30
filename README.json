@@ -21,7 +21,7 @@
                 "open_issues": 74,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29142,
+                "stars": 29141,
                 "topics": [
                   "animation-library",
                   "react",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T14:44:11Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56576,
+                "stars": 56577,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 839,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34329,
+                "stars": 34328,
                 "topics": [
                   "form",
                   "formik",
@@ -397,7 +397,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-30T16:12:22Z",
-                "open_issues": 377,
+                "open_issues": 378,
                 "owner": "final-form",
                 "repo": "react-final-form",
                 "stars": 7440,
@@ -427,7 +427,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "TanStack",
                 "repo": "form",
                 "stars": 6676,
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6792,
+                "stars": 6791,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T15:57:04Z",
+                "last_commit": "2026-08-29T14:07:38Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T01:18:18Z",
+                "last_commit": "2026-08-30T02:49:17Z",
                 "open_issues": 3,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:36:43.486Z",
+    "last_updated": "2026-08-30T08:47:03.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

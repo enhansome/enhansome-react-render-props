@@ -21,7 +21,7 @@
                 "open_issues": 74,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29141,
+                "stars": 29139,
                 "topics": [
                   "animation-library",
                   "react",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33946,
+                "stars": 33943,
                 "topics": [
                   "dnd",
                   "drag",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T14:44:11Z",
-                "open_issues": 171,
+                "open_issues": 173,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56577,
+                "stars": 56574,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 839,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34328,
+                "stars": 34327,
                 "topics": [
                   "form",
                   "formik",
@@ -430,7 +430,7 @@
                 "open_issues": 182,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6676,
+                "stars": 6679,
                 "topics": [
                   "angular",
                   "form",
@@ -735,7 +735,7 @@
                 "open_issues": 30,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8967,
+                "stars": 8970,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6791,
+                "stars": 6790,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T14:07:38Z",
+                "last_commit": "2026-08-30T18:13:06Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1489,7 +1489,7 @@
                 "open_issues": 0,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5538,
+                "stars": 5537,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T02:49:17Z",
+                "last_commit": "2026-08-30T16:53:29Z",
                 "open_issues": 3,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:47:03.313Z",
+    "last_updated": "2026-08-31T09:08:48.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

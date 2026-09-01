@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T18:36:07Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-01T01:20:51Z",
+                "open_issues": 76,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29139,
+                "stars": 29142,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21913,
+                "stars": 21914,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -341,7 +341,7 @@
                 "open_issues": 173,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56574,
+                "stars": 56577,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 839,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34327,
+                "stars": 34329,
                 "topics": [
                   "form",
                   "formik",
@@ -427,10 +427,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
-                "open_issues": 182,
+                "open_issues": 184,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6679,
+                "stars": 6676,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 57,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12307,
+                "stars": 12306,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T18:13:06Z",
+                "last_commit": "2026-08-31T18:43:47Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1300,7 +1300,7 @@
                 "open_issues": 25,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -1481,7 +1481,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.",
-                "homepage": "https://roi.thebuilder.dk",
+                "homepage": "https://rio.thebuilder.dk",
                 "id": 90013055,
                 "language": "TypeScript",
                 "license": "MIT",
@@ -1975,8 +1975,8 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T16:53:29Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-31T13:05:53Z",
+                "open_issues": 4,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 401,
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:08:48.591Z",
+    "last_updated": "2026-09-01T08:10:11.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -17,7 +17,7 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:25:33Z",
+                "last_commit": "2026-09-04T09:00:50Z",
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21913,
+                "stars": 21912,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -341,7 +341,7 @@
                 "open_issues": 173,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56575,
+                "stars": 56579,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 840,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34328,
+                "stars": 34327,
                 "topics": [
                   "form",
                   "formik",
@@ -427,10 +427,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-02T16:01:04Z",
-                "open_issues": 188,
+                "open_issues": 189,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6677,
+                "stars": 6676,
                 "topics": [
                   "angular",
                   "form",
@@ -656,7 +656,7 @@
                 "open_issues": 12,
                 "owner": "kimmelsg",
                 "repo": "cj-upload",
-                "stars": 579,
+                "stars": 578,
                 "topics": [
                   "file",
                   "file-upload",
@@ -735,7 +735,7 @@
                 "open_issues": 30,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8970,
+                "stars": 8972,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T03:47:00Z",
+                "last_commit": "2026-09-04T15:41:22Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1975,11 +1975,11 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:55:13Z",
+                "last_commit": "2026-09-05T04:41:38Z",
                 "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "image",
                   "react",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:34:59.970Z",
+    "last_updated": "2026-09-05T07:15:59.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29148,
+                "stars": 29150,
                 "topics": [
                   "animation-library",
                   "react",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33935,
+                "stars": 33934,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T21:14:37Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-09T01:48:06Z",
+                "open_issues": 178,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56578,
+                "stars": 56579,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 840,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34322,
+                "stars": 34321,
                 "topics": [
                   "form",
                   "formik",
@@ -427,7 +427,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-05T09:29:02Z",
-                "open_issues": 190,
+                "open_issues": 192,
                 "owner": "TanStack",
                 "repo": "form",
                 "stars": 6680,
@@ -731,7 +731,7 @@
                 "id": 118695306,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-22T16:07:52Z",
+                "last_commit": "2026-09-09T03:58:29Z",
                 "open_issues": 30,
                 "owner": "urql-graphql",
                 "repo": "urql",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T00:05:05Z",
+                "last_commit": "2026-09-08T11:52:03Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:38:22.888Z",
+    "last_updated": "2026-09-09T07:43:29.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

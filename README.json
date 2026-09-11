@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29148,
+                "stars": 29149,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21908,
+                "stars": 21907,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33931,
+                "stars": 33932,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T14:05:44Z",
-                "open_issues": 182,
+                "last_commit": "2026-09-10T21:26:02Z",
+                "open_issues": 183,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56575,
+                "stars": 56572,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -426,8 +426,8 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T09:29:02Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-10T10:56:08Z",
+                "open_issues": 196,
                 "owner": "TanStack",
                 "repo": "form",
                 "stars": 6679,
@@ -572,7 +572,7 @@
                 "open_issues": 57,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12306,
+                "stars": 12305,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T11:52:03Z",
+                "last_commit": "2026-09-10T18:18:21Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -877,7 +877,7 @@
                 "open_issues": 6,
                 "owner": "ianstormtaylor",
                 "repo": "react-values",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": [
                   "components",
                   "headless",
@@ -1485,8 +1485,8 @@
                 "id": 90013055,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T12:28:18Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-11T01:24:17Z",
+                "open_issues": 1,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
                 "stars": 5536,
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T06:13:51Z",
+                "last_commit": "2026-09-11T05:31:21Z",
                 "open_issues": 2,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:42:40.478Z",
+    "last_updated": "2026-09-11T07:38:37.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",
@@ -2013,7 +2013,7 @@
       "open_issues": 5,
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
-      "stars": 1390,
+      "stars": 1391,
       "topics": [
         "awesome",
         "awesome-list",

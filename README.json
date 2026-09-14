@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33932,
+                "stars": 33931,
                 "topics": [
                   "dnd",
                   "drag",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T23:06:56Z",
-                "open_issues": 179,
+                "open_issues": 181,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56573,
+                "stars": 56575,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -430,7 +430,7 @@
                 "open_issues": 203,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6682,
+                "stars": 6683,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 57,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12305,
+                "stars": 12304,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -732,7 +732,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T03:58:29Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "urql-graphql",
                 "repo": "urql",
                 "stars": 8975,
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T01:15:26Z",
+                "last_commit": "2026-09-13T18:25:37Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1975,8 +1975,8 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T20:48:55Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-13T21:01:11Z",
+                "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 402,
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:51:48.601Z",
+    "last_updated": "2026-09-14T08:24:08.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

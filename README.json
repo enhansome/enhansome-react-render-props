@@ -17,7 +17,7 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T21:17:14Z",
+                "last_commit": "2026-09-14T16:59:14Z",
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33931,
+                "stars": 33929,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T23:06:56Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-14T21:10:31Z",
+                "open_issues": 182,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56575,
+                "stars": 56573,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -426,8 +426,8 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T22:26:53Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-14T12:01:12Z",
+                "open_issues": 204,
                 "owner": "TanStack",
                 "repo": "form",
                 "stars": 6683,
@@ -569,7 +569,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-06-30T07:36:06Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "downshift-js",
                 "repo": "downshift",
                 "stars": 12304,
@@ -955,7 +955,7 @@
                 "open_issues": 19,
                 "owner": "jamesplease",
                 "repo": "react-request",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "fetch",
                   "http",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:24:08.852Z",
+    "last_updated": "2026-09-15T08:15:38.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,149 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-15: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,147 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-15: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,909 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,551 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,546 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,572 | 🐛 171 | 🌐 TypeScript | 📅 2026-09-15: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,571 | 🐛 172 | 🌐 TypeScript | 📅 2026-09-16: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,318 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,317 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,436 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,685 | 🐛 203 | 🌐 TypeScript | 📅 2026-09-16: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,686 | 🐛 204 | 🌐 TypeScript | 📅 2026-09-16: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -64,7 +64,7 @@ Awesome list of React components with render props and resources.
 ### Inputs
 
 * [downshift](https://github.com/paypal/downshift) ⭐ 12,304 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
-* [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 667 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
+* [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 666 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 * [react-compound-slider](https://github.com/sghall/react-compound-slider) ⭐ 618 | 🐛 24 | 🌐 TypeScript | 📅 2022-11-09: React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 * [@navjobs/upload](https://github.com/navjobs/upload) ⚠️ Archived: Higher order React components for file uploading (with progress) react file upload
 * [react-toggled](https://github.com/kentcdodds/react-toggled) ⚠️ Archived: Component to build simple, flexible, and accessible toggle components
@@ -97,7 +97,7 @@ Awesome list of React components with render props and resources.
 
 ### Media
 
-* [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) ⭐ 3,097 | 🐛 25 | 🌐 TypeScript | 📅 2026-04-07: React Carousel Component
+* [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) ⭐ 3,096 | 🐛 25 | 🌐 TypeScript | 📅 2026-04-07: React Carousel Component
 * [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image) ⚠️ Archived: React component for progressive image loading
 * [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2019-05-28: Module for dealing with custom web fonts
 * [react-power-picture](https://github.com/tvthatsme/react-power-picture) ⚠️ Archived: Progressively load an image srcset for maximum responsiveness and performance
@@ -114,7 +114,7 @@ Awesome list of React components with render props and resources.
 * [react-fns](https://github.com/jaredpalmer/react-fns) ⭐ 3,699 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-24: Browser API's turned into declarative React components and HoC's
 * [react-media](https://github.com/reacttraining/react-media) ⭐ 2,420 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-15: CSS media queries for React
 * [react-sizeme](https://github.com/ctrlplusb/react-sizeme) ⭐ 1,959 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04: Make your React Components aware of their width and height!
-* [react-loops](https://github.com/leebyron/react-loops) ⭐ 1,157 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-30: Easily convert collections of any kind into lists of React elements with crystal clear syntax.
+* [react-loops](https://github.com/leebyron/react-loops) ⭐ 1,156 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-30: Easily convert collections of any kind into lists of React elements with crystal clear syntax.
 * [react-albus](https://github.com/americanexpress/react-albus) ⭐ 1,109 | 🐛 16 | 🌐 JavaScript | 📅 2024-10-29: React component library for building declarative multi-step flows (wizards).
 * [react-loads](https://github.com/jxom/react-loads) ⚠️ Archived: A simple React component to handle loading state
 * [react-geolocation](https://github.com/tkh44/react-geolocation) ⭐ 240 | 🐛 2 | 🌐 JavaScript | 📅 2018-12-17: Declarative geolocation in React
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29147,
+                "stars": 29149,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21909,
+                "stars": 21910,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6551,
+                "stars": 6552,
                 "topics": [
                   "animate",
                   "animation",
@@ -100,7 +100,7 @@
                 "open_issues": 27,
                 "owner": "brunnolou",
                 "repo": "react-morph",
-                "stars": 2546,
+                "stars": 2547,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -154,7 +154,7 @@
                 "open_issues": 26,
                 "owner": "pedronauck",
                 "repo": "react-adopt",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": [
                   "compose",
                   "react",
@@ -204,7 +204,7 @@
                 "open_issues": 4,
                 "owner": "gnapse",
                 "repo": "render-props-compose",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33928,
+                "stars": 33929,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T18:15:12Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-17T14:52:51Z",
+                "open_issues": 174,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56571,
+                "stars": 56577,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -366,7 +366,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-10T17:02:06Z",
-                "open_issues": 841,
+                "open_issues": 842,
                 "owner": "jaredpalmer",
                 "repo": "formik",
                 "stars": 34317,
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T05:41:59Z",
-                "open_issues": 204,
+                "last_commit": "2026-09-17T14:19:48Z",
+                "open_issues": 205,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6686,
+                "stars": 6688,
                 "topics": [
                   "angular",
                   "form",
@@ -605,7 +605,7 @@
                 "open_issues": 9,
                 "owner": "deseretdigital",
                 "repo": "dayzed",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7716,
+                "stars": 7715,
                 "topics": [
                   "management",
                   "react",
@@ -810,11 +810,11 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T18:25:37Z",
+                "last_commit": "2026-09-17T23:17:57Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
-                "stars": 4005,
+                "stars": 4006,
                 "topics": [
                   "constate",
                   "hooks",
@@ -1489,7 +1489,7 @@
                 "open_issues": 1,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5538,
+                "stars": 5539,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1571,7 +1571,7 @@
                 "open_issues": 34,
                 "owner": "ctrlplusb",
                 "repo": "react-sizeme",
-                "stars": 1959,
+                "stars": 1960,
                 "topics": [
                   "element-queries",
                   "element-query",
@@ -1767,7 +1767,7 @@
                 "open_issues": 1,
                 "owner": "gnapse",
                 "repo": "react-treefold",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "hierarchy-viewer",
                   "react",
@@ -1869,7 +1869,7 @@
                 "open_issues": 0,
                 "owner": "jonstuebe",
                 "repo": "react-useragent",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "hoc",
                   "javascript",
@@ -1975,8 +1975,8 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:01:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-18T01:27:54Z",
+                "open_issues": 2,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 402,
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:15:23.156Z",
+    "last_updated": "2026-09-18T07:49:36.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",
@@ -2013,7 +2013,7 @@
       "open_issues": 5,
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
-      "stars": 1391,
+      "stars": 1392,
       "topics": [
         "awesome",
         "awesome-list",

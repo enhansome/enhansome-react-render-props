@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29149,
+                "stars": 29151,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21909,
+                "stars": 21908,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33930,
+                "stars": 33929,
                 "topics": [
                   "dnd",
                   "drag",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-17T14:52:51Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56580,
+                "stars": 56582,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -430,7 +430,7 @@
                 "open_issues": 205,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6692,
+                "stars": 6695,
                 "topics": [
                   "angular",
                   "form",
@@ -605,7 +605,7 @@
                 "open_issues": 9,
                 "owner": "deseretdigital",
                 "repo": "dayzed",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -735,7 +735,7 @@
                 "open_issues": 32,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8976,
+                "stars": 8977,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7714,
+                "stars": 7713,
                 "topics": [
                   "management",
                   "react",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:48:57Z",
+                "last_commit": "2026-09-20T07:03:53Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1300,7 +1300,7 @@
                 "open_issues": 25,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:41:36.820Z",
+    "last_updated": "2026-09-20T08:09:15.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

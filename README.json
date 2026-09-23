@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:18:08Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-23T08:08:29Z",
+                "open_issues": 73,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29153,
+                "stars": 29159,
                 "topics": [
                   "animation-library",
                   "react",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T14:53:18Z",
+                "last_commit": "2026-09-22T16:50:08Z",
                 "open_issues": 180,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56582,
+                "stars": 56584,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 842,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34319,
+                "stars": 34320,
                 "topics": [
                   "form",
                   "formik",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T06:08:32Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-22T09:53:54Z",
+                "open_issues": 204,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6699,
+                "stars": 6698,
                 "topics": [
                   "angular",
                   "form",
@@ -1489,7 +1489,7 @@
                 "open_issues": 1,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5538,
+                "stars": 5537,
                 "topics": [
                   "hook",
                   "hooks",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:07:00.997Z",
+    "last_updated": "2026-09-23T08:09:09.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T02:53:40Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-26T19:23:40Z",
+                "open_issues": 73,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29161,
+                "stars": 29160,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21912,
+                "stars": 21913,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T16:33:30Z",
-                "open_issues": 196,
+                "open_issues": 199,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56586,
+                "stars": 56589,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T00:27:53Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-27T07:33:44Z",
+                "open_issues": 207,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6698,
+                "stars": 6699,
                 "topics": [
                   "angular",
                   "form",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T19:30:32Z",
+                "last_commit": "2026-09-26T18:16:50Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -845,7 +845,7 @@
                 "open_issues": 12,
                 "owner": "renatorib",
                 "repo": "react-powerplug",
-                "stars": 2672,
+                "stars": 2673,
                 "topics": [
                   "dumb",
                   "dumb-components",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:11:14.557Z",
+    "last_updated": "2026-09-27T08:48:11.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

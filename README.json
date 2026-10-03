@@ -430,7 +430,7 @@
                 "open_issues": 211,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6702,
+                "stars": 6701,
                 "topics": [
                   "angular",
                   "form",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:03.914Z",
+    "last_updated": "2026-10-03T08:45:39.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:44:10Z",
+                "last_commit": "2026-10-02T12:46:11Z",
                 "open_issues": 67,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29164,
+                "stars": 29165,
                 "topics": [
                   "animation-library",
                   "react",
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6549,
+                "stars": 6548,
                 "topics": [
                   "animate",
                   "animation",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:54:03Z",
-                "open_issues": 211,
+                "open_issues": 212,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56591,
+                "stars": 56588,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 842,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34317,
+                "stars": 34314,
                 "topics": [
                   "form",
                   "formik",
@@ -430,7 +430,7 @@
                 "open_issues": 211,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6701,
+                "stars": 6702,
                 "topics": [
                   "angular",
                   "form",
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7710,
+                "stars": 7709,
                 "topics": [
                   "management",
                   "react",
@@ -1300,7 +1300,7 @@
                 "open_issues": 26,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:12:46.956Z",
+    "last_updated": "2026-10-03T05:04:03.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

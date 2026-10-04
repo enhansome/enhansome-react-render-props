@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:46:11Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-04T00:56:46Z",
+                "open_issues": 69,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29165,
+                "stars": 29164,
                 "topics": [
                   "animation-library",
                   "react",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33927,
+                "stars": 33925,
                 "topics": [
                   "dnd",
                   "drag",
@@ -338,7 +338,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:54:03Z",
-                "open_issues": 212,
+                "open_issues": 214,
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56588,
@@ -400,7 +400,7 @@
                 "open_issues": 378,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7435,
+                "stars": 7434,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -427,10 +427,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:13:52Z",
-                "open_issues": 211,
+                "open_issues": 209,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6701,
+                "stars": 6700,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 59,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12303,
+                "stars": 12301,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -735,7 +735,7 @@
                 "open_issues": 31,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8977,
+                "stars": 8978,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:15:54Z",
+                "last_commit": "2026-10-04T01:42:16Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -877,7 +877,7 @@
                 "open_issues": 6,
                 "owner": "ianstormtaylor",
                 "repo": "react-values",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": [
                   "components",
                   "headless",
@@ -1008,7 +1008,7 @@
                 "open_issues": 13,
                 "owner": "tkh44",
                 "repo": "holen",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "declarative",
                   "fetch",
@@ -1571,7 +1571,7 @@
                 "open_issues": 34,
                 "owner": "ctrlplusb",
                 "repo": "react-sizeme",
-                "stars": 1960,
+                "stars": 1959,
                 "topics": [
                   "element-queries",
                   "element-query",
@@ -1645,7 +1645,7 @@
                 "open_issues": 4,
                 "owner": "jxom",
                 "repo": "react-loads",
-                "stars": 284,
+                "stars": 283,
                 "topics": [
                   "hook",
                   "loading",
@@ -1673,7 +1673,7 @@
                 "open_issues": 2,
                 "owner": "tkh44",
                 "repo": "react-geolocation",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "declarative",
                   "geolocation",
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:07:02Z",
+                "last_commit": "2026-10-04T05:33:13Z",
                 "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:45:39.774Z",
+    "last_updated": "2026-10-04T09:11:07.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

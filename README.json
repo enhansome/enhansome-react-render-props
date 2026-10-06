@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33924,
+                "stars": 33923,
                 "topics": [
                   "dnd",
                   "drag",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:39:44.519Z",
+    "last_updated": "2026-10-06T10:31:55.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -17,8 +17,8 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T22:29:16Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-09T06:45:59Z",
+                "open_issues": 76,
                 "owner": "pmndrs",
                 "repo": "react-spring",
                 "stars": 29167,
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6549,
+                "stars": 6548,
                 "topics": [
                   "animate",
                   "animation",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33922,
+                "stars": 33921,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T21:22:37Z",
-                "open_issues": 215,
+                "last_commit": "2026-10-08T21:27:28Z",
+                "open_issues": 222,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56602,
+                "stars": 56598,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:13:52Z",
-                "open_issues": 212,
+                "last_commit": "2026-10-08T12:05:14Z",
+                "open_issues": 209,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6710,
+                "stars": 6711,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 58,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12301,
+                "stars": 12302,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7709,
+                "stars": 7708,
                 "topics": [
                   "management",
                   "react",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T10:18:16Z",
+                "last_commit": "2026-10-09T06:50:10Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -845,7 +845,7 @@
                 "open_issues": 12,
                 "owner": "renatorib",
                 "repo": "react-powerplug",
-                "stars": 2673,
+                "stars": 2674,
                 "topics": [
                   "dumb",
                   "dumb-components",
@@ -1300,7 +1300,7 @@
                 "open_issues": 26,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3096,
+                "stars": 3097,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:25:49Z",
+                "last_commit": "2026-10-08T19:58:49Z",
                 "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:46:33.166Z",
+    "last_updated": "2026-10-09T09:51:40.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

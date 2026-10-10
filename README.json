@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:45:59Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-09T14:18:19Z",
+                "open_issues": 77,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29167,
+                "stars": 29166,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21911,
+                "stars": 21908,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33921,
+                "stars": 33917,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:27:28Z",
+                "last_commit": "2026-10-09T20:05:55Z",
                 "open_issues": 222,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56598,
+                "stars": 56594,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 843,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34311,
+                "stars": 34309,
                 "topics": [
                   "form",
                   "formik",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T12:05:14Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-10T09:02:45Z",
+                "open_issues": 212,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6711,
+                "stars": 6713,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 58,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12302,
+                "stars": 12301,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:50:10Z",
+                "last_commit": "2026-10-10T00:38:27Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1489,7 +1489,7 @@
                 "open_issues": 1,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5539,
+                "stars": 5537,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:58:49Z",
+                "last_commit": "2026-10-10T04:36:55Z",
                 "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:51:40.199Z",
+    "last_updated": "2026-10-10T09:15:51.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

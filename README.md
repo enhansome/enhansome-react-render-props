@@ -26,8 +26,8 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,166 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-09: 🙌 Helping react-motion and animated to become best friends
-* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,908 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,166 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-11: 🙌 Helping react-motion and animated to become best friends
+* [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,907 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,548 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,546 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
 * [react-prop-transition](https://github.com/imranolas/react-prop-transition) ⭐ 57 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-06: Transition *almost* any value over time.
@@ -47,12 +47,12 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,594 | 🐛 222 | 🌐 TypeScript | 📅 2026-10-09: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,592 | 🐛 227 | 🌐 TypeScript | 📅 2026-10-09: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,309 | 🐛 843 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,308 | 🐛 843 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,433 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
 * [react-form](https://github.com/react-tools/react-form) ⭐ 6,713 | 🐛 212 | 🌐 TypeScript | 📅 2026-10-10: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
@@ -72,7 +72,7 @@ Awesome list of React components with render props and resources.
 
 ### Data
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,978 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-02: Universal React Query Library
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,979 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-02: Universal React Query Library
 * [unstated](https://github.com/thejameskyle/unstated) ⭐ 7,708 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11: Share state between components with the same stateful component API
 * [react-apollo](https://github.com/apollographql/react-apollo) ⚠️ Archived: ♻️ React integration for Apollo Client
 * [constate](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-10: React context + state = constate
@@ -110,7 +110,7 @@ Awesome list of React components with render props and resources.
 
 ### Misc
 
-* [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,537 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11: Monitor when an element enters or leaves the browser viewport.
+* [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,537 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11: Monitor when an element enters or leaves the browser viewport.
 * [react-fns](https://github.com/jaredpalmer/react-fns) ⭐ 3,700 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-24: Browser API's turned into declarative React components and HoC's
 * [react-media](https://github.com/reacttraining/react-media) ⭐ 2,418 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-15: CSS media queries for React
 * [react-sizeme](https://github.com/ctrlplusb/react-sizeme) ⭐ 1,959 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04: Make your React Components aware of their width and height!
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

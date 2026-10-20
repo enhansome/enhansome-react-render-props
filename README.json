@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:11:56Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-20T07:24:51Z",
+                "open_issues": 68,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29172,
+                "stars": 29173,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21909,
+                "stars": 21907,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T15:16:32Z",
+                "last_commit": "2026-10-19T17:36:40Z",
                 "open_issues": 234,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56608,
+                "stars": 56611,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 844,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34305,
+                "stars": 34308,
                 "topics": [
                   "form",
                   "formik",
@@ -400,7 +400,7 @@
                 "open_issues": 378,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7435,
+                "stars": 7434,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -430,7 +430,7 @@
                 "open_issues": 219,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6734,
+                "stars": 6737,
                 "topics": [
                   "angular",
                   "form",
@@ -735,7 +735,7 @@
                 "open_issues": 33,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8979,
+                "stars": 8980,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6791,
+                "stars": 6792,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -1489,7 +1489,7 @@
                 "open_issues": 2,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5537,
+                "stars": 5538,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1550,7 +1550,7 @@
                 "open_issues": 8,
                 "owner": "ReactTraining",
                 "repo": "react-media",
-                "stars": 2419,
+                "stars": 2418,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:19:57.281Z",
+    "last_updated": "2026-10-20T08:04:25.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",
@@ -2013,7 +2013,7 @@
       "open_issues": 5,
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
-      "stars": 1392,
+      "stars": 1393,
       "topics": [
         "awesome",
         "awesome-list",

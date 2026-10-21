@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,173 | 🐛 68 | 🌐 TypeScript | 📅 2026-10-20: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,177 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-21: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,907 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,548 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,546 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,611 | 🐛 234 | 🌐 TypeScript | 📅 2026-10-19: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,612 | 🐛 242 | 🌐 TypeScript | 📅 2026-10-20: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,308 | 🐛 844 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,307 | 🐛 844 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,434 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,737 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-19: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,739 | 🐛 219 | 🌐 TypeScript | 📅 2026-10-21: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -82,7 +82,7 @@ Awesome list of React components with render props and resources.
 * [statty](https://github.com/vesparny/statty) ⭐ 506 | 🐛 1 | 🌐 JavaScript | 📅 2021-09-21: A tiny and unobtrusive state management library for React and Preact apps
 * [react-request](https://github.com/jmeas/react-request) ⚠️ Archived: Declarative HTTP requests for React with request deduplication and response caching
 * [react-firestore](https://github.com/green-arrow/react-firestore) ⭐ 227 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-07: Render prop components to fetch Firestore collections and documents
-* [holen](https://github.com/tkh44/holen) ⭐ 151 | 🐛 13 | 🌐 JavaScript | 📅 2019-01-21: Declarative fetch for React
+* [holen](https://github.com/tkh44/holen) ⭐ 151 | 🐛 12 | 🌐 JavaScript | 📅 2019-01-21: Declarative fetch for React
 * [react-value](https://github.com/JedWatson/react-value) ⭐ 91 | 🐛 1 | 🌐 JavaScript | 📅 2019-05-08: An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
 * [react-localforage](https://github.com/tkh44/react-localforage) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2017-08-27: Declarative localForage in React
 * [redux-render](https://github.com/jsonnull/redux-render) ⚠️ Archived: Ergonomic Redux bindings for React using render props
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

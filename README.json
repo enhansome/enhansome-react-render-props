@@ -17,8 +17,8 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T00:56:54Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-22T03:51:17Z",
+                "open_issues": 75,
                 "owner": "pmndrs",
                 "repo": "react-spring",
                 "stars": 29177,
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33904,
+                "stars": 33906,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T20:53:49Z",
-                "open_issues": 242,
+                "last_commit": "2026-10-21T15:15:02Z",
+                "open_issues": 247,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56612,
+                "stars": 56619,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 844,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34307,
+                "stars": 34308,
                 "topics": [
                   "form",
                   "formik",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T06:00:01Z",
+                "last_commit": "2026-10-21T08:57:50Z",
                 "open_issues": 219,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6739,
+                "stars": 6741,
                 "topics": [
                   "angular",
                   "form",
@@ -1300,7 +1300,7 @@
                 "open_issues": 26,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3098,
+                "stars": 3097,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:09:38.707Z",
+    "last_updated": "2026-10-22T08:10:40.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

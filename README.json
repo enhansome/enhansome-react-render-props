@@ -17,7 +17,7 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T05:59:11Z",
+                "last_commit": "2026-10-23T15:24:09Z",
                 "open_issues": 77,
                 "owner": "pmndrs",
                 "repo": "react-spring",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21907,
+                "stars": 21909,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T20:52:21Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-23T20:18:38Z",
+                "open_issues": 236,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56621,
+                "stars": 56623,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 844,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34308,
+                "stars": 34309,
                 "topics": [
                   "form",
                   "formik",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T07:28:41Z",
-                "open_issues": 218,
+                "last_commit": "2026-10-23T10:28:21Z",
+                "open_issues": 219,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6742,
+                "stars": 6744,
                 "topics": [
                   "angular",
                   "form",
@@ -731,8 +731,8 @@
                 "id": 118695306,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T06:49:04Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-24T04:41:08Z",
+                "open_issues": 29,
                 "owner": "urql-graphql",
                 "repo": "urql",
                 "stars": 8980,
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6792,
+                "stars": 6791,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -901,7 +901,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-05-09T22:25:10Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "anish000kumar",
                 "repo": "redux-box",
                 "stars": 703,
@@ -1489,7 +1489,7 @@
                 "open_issues": 3,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5539,
+                "stars": 5540,
                 "topics": [
                   "hook",
                   "hooks",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:08:41.421Z",
+    "last_updated": "2026-10-24T07:47:17.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

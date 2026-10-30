@@ -17,11 +17,11 @@
                 "id": 124257233,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T05:57:09Z",
+                "last_commit": "2026-10-30T01:53:07Z",
                 "open_issues": 78,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29248,
+                "stars": 29255,
                 "topics": [
                   "animation-library",
                   "react",
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6547,
+                "stars": 6545,
                 "topics": [
                   "animate",
                   "animation",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33901,
+                "stars": 33899,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T21:06:32Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-29T21:07:41Z",
+                "open_issues": 224,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56629,
+                "stars": 56628,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -400,7 +400,7 @@
                 "open_issues": 378,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7436,
+                "stars": 7437,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T10:59:34Z",
-                "open_issues": 227,
+                "last_commit": "2026-10-29T15:21:52Z",
+                "open_issues": 224,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6755,
+                "stars": 6758,
                 "topics": [
                   "angular",
                   "form",
@@ -569,7 +569,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-06-30T07:36:06Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "downshift-js",
                 "repo": "downshift",
                 "stars": 12302,
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T01:00:33Z",
+                "last_commit": "2026-10-30T06:16:32Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1043,27 +1043,6 @@
             },
             {
               "node_type": "item",
-              "title": "react-localforage",
-              "description": "Declarative localForage in React",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "👨‍🌾 Declarative localForage in React",
-                "homepage": null,
-                "id": 100742142,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2017-08-27T17:19:17Z",
-                "open_issues": 2,
-                "owner": "tkh44",
-                "repo": "react-localforage",
-                "stars": 53,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:45:46.993Z"
-            },
-            {
-              "node_type": "item",
               "title": "redux-render",
               "description": "Ergonomic Redux bindings for React using render props",
               "children": [],
@@ -1085,6 +1064,27 @@
                   "redux",
                   "render-props"
                 ]
+              },
+              "first_seen": "2026-08-28T14:45:46.993Z"
+            },
+            {
+              "node_type": "item",
+              "title": "react-localforage",
+              "description": "Declarative localForage in React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "👨‍🌾 Declarative localForage in React",
+                "homepage": null,
+                "id": 100742142,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2017-08-27T17:19:17Z",
+                "open_issues": 2,
+                "owner": "tkh44",
+                "repo": "react-localforage",
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
             },
@@ -1975,7 +1975,7 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T20:12:18Z",
+                "last_commit": "2026-10-30T05:20:44Z",
                 "open_issues": 2,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T09:10:27.833Z",
+    "last_updated": "2026-10-30T09:21:44.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",
@@ -2010,7 +2010,7 @@
       "language": null,
       "license": null,
       "last_commit": "2019-04-04T19:04:00Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "jaredpalmer",
       "repo": "awesome-react-render-props",
       "stars": 1394,

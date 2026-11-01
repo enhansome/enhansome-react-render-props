@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,258 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-30: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,258 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-01: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,907 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,544 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,546 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,626 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-30: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,628 | 🐛 226 | 🌐 TypeScript | 📅 2026-10-30: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,306 | 🐛 843 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,305 | 🐛 843 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,438 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,758 | 🐛 225 | 🌐 TypeScript | 📅 2026-10-30: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,760 | 🐛 226 | 🌐 TypeScript | 📅 2026-10-31: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

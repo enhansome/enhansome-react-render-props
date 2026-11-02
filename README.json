@@ -21,7 +21,7 @@
                 "open_issues": 78,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29258,
+                "stars": 29261,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21907,
+                "stars": 21908,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6544,
+                "stars": 6543,
                 "topics": [
                   "animate",
                   "animation",
@@ -341,7 +341,7 @@
                 "open_issues": 226,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56628,
+                "stars": 56631,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 843,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34305,
+                "stars": 34306,
                 "topics": [
                   "form",
                   "formik",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T09:12:51Z",
-                "open_issues": 226,
+                "last_commit": "2026-11-02T00:50:23Z",
+                "open_issues": 228,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6760,
+                "stars": 6762,
                 "topics": [
                   "angular",
                   "form",
@@ -732,10 +732,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-31T05:07:44Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8982,
+                "stars": 8983,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7710,
+                "stars": 7709,
                 "topics": [
                   "management",
                   "react",
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6791,
+                "stars": 6790,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T20:34:49Z",
+                "last_commit": "2026-11-01T17:45:03Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1489,7 +1489,7 @@
                 "open_issues": 5,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5543,
+                "stars": 5542,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1525,7 +1525,7 @@
                 "open_issues": 3,
                 "owner": "jaredpalmer",
                 "repo": "react-fns",
-                "stars": 3700,
+                "stars": 3699,
                 "topics": [
                   "hoc",
                   "react",
@@ -1645,7 +1645,7 @@
                 "open_issues": 4,
                 "owner": "jxom",
                 "repo": "react-loads",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "hook",
                   "loading",
@@ -1975,8 +1975,8 @@
                 "id": 113911575,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T08:44:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-02T05:44:10Z",
+                "open_issues": 1,
                 "owner": "wKovacs64",
                 "repo": "react-native-responsive-image-view",
                 "stars": 401,
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:56:00.419Z",
+    "last_updated": "2026-11-02T10:22:25.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

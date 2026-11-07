@@ -26,7 +26,7 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,261 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-01: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,264 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-01: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,911 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
 * [react-move](https://github.com/react-tools/react-move) ⭐ 6,542 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,545 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,632 | 🐛 233 | 🌐 TypeScript | 📅 2026-11-05: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,631 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-06: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,304 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,303 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
 * [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,438 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,764 | 🐛 232 | 🌐 TypeScript | 📅 2026-11-03: Simple, powerful, highly composable forms in React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,767 | 🐛 234 | 🌐 TypeScript | 📅 2026-11-03: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -63,7 +63,7 @@ Awesome list of React components with render props and resources.
 
 ### Inputs
 
-* [downshift](https://github.com/paypal/downshift) ⭐ 12,303 | 🐛 58 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+* [downshift](https://github.com/paypal/downshift) ⭐ 12,303 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 * [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 667 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 * [react-compound-slider](https://github.com/sghall/react-compound-slider) ⭐ 617 | 🐛 24 | 🌐 TypeScript | 📅 2022-11-09: React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 * [@navjobs/upload](https://github.com/navjobs/upload) ⚠️ Archived: Higher order React components for file uploading (with progress) react file upload
@@ -133,8 +133,8 @@ Awesome list of React components with render props and resources.
 ### React Native
 
 * [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) ⭐ 898 | 🐛 42 | 🌐 JavaScript | 📅 2021-09-21: React Native cross-platform carousel component based on FlatList
-* [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view) ⭐ 400 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06: React Native component for scaling an Image within the parent View
+* [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view) ⭐ 400 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07: React Native component for scaling an Image within the parent View
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

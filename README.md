@@ -52,9 +52,9 @@ Awesome list of React components with render props and resources.
 
 ### Forms
 
-* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,303 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
-* [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,438 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,767 | 🐛 234 | 🌐 TypeScript | 📅 2026-11-03: Simple, powerful, highly composable forms in React
+* [formik](https://github.com/jaredpalmer/formik) ⭐ 34,303 | 🐛 842 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
+* [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,437 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,768 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-08: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -63,7 +63,7 @@ Awesome list of React components with render props and resources.
 
 ### Inputs
 
-* [downshift](https://github.com/paypal/downshift) ⭐ 12,303 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-30: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+* [downshift](https://github.com/paypal/downshift) ⭐ 12,303 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 * [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 667 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 * [react-compound-slider](https://github.com/sghall/react-compound-slider) ⭐ 617 | 🐛 24 | 🌐 TypeScript | 📅 2022-11-09: React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 * [@navjobs/upload](https://github.com/navjobs/upload) ⚠️ Archived: Higher order React components for file uploading (with progress) react file upload
@@ -72,10 +72,10 @@ Awesome list of React components with render props and resources.
 
 ### Data
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,985 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-04: Universal React Query Library
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,985 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-04: Universal React Query Library
 * [unstated](https://github.com/thejameskyle/unstated) ⭐ 7,709 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11: Share state between components with the same stateful component API
 * [react-apollo](https://github.com/apollographql/react-apollo) ⚠️ Archived: ♻️ React integration for Apollo Client
-* [constate](https://github.com/diegohaz/constate) ⭐ 4,007 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06: React context + state = constate
+* [constate](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-08: React context + state = constate
 * [react-powerplug](https://github.com/renatorib/react-powerplug) ⭐ 2,675 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-08: Renderless Pluggable State Containers
 * [react-values](https://github.com/ianstormtaylor/react-values) ⚠️ Archived: ✨ A set of tiny, composable React components for handling state with render props.
 * [redux-box](https://github.com/anish000kumar/redux-box) ⭐ 703 | 🐛 9 | 🌐 TypeScript | 📅 2026-05-09: Modular and easy-to-grasp redux based state management, with least boilerplate
@@ -110,11 +110,11 @@ Awesome list of React components with render props and resources.
 
 ### Misc
 
-* [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,542 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24: Monitor when an element enters or leaves the browser viewport.
+* [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,543 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24: Monitor when an element enters or leaves the browser viewport.
 * [react-fns](https://github.com/jaredpalmer/react-fns) ⭐ 3,699 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-24: Browser API's turned into declarative React components and HoC's
 * [react-media](https://github.com/reacttraining/react-media) ⭐ 2,418 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-15: CSS media queries for React
 * [react-sizeme](https://github.com/ctrlplusb/react-sizeme) ⭐ 1,960 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04: Make your React Components aware of their width and height!
-* [react-loops](https://github.com/leebyron/react-loops) ⭐ 1,157 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-30: Easily convert collections of any kind into lists of React elements with crystal clear syntax.
+* [react-loops](https://github.com/leebyron/react-loops) ⭐ 1,156 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-30: Easily convert collections of any kind into lists of React elements with crystal clear syntax.
 * [react-albus](https://github.com/americanexpress/react-albus) ⭐ 1,108 | 🐛 16 | 🌐 JavaScript | 📅 2024-10-29: React component library for building declarative multi-step flows (wizards).
 * [react-loads](https://github.com/jxom/react-loads) ⚠️ Archived: A simple React component to handle loading state
 * [react-geolocation](https://github.com/tkh44/react-geolocation) ⭐ 241 | 🐛 2 | 🌐 JavaScript | 📅 2018-12-17: Declarative geolocation in React
@@ -133,8 +133,8 @@ Awesome list of React components with render props and resources.
 ### React Native
 
 * [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) ⭐ 898 | 🐛 42 | 🌐 JavaScript | 📅 2021-09-21: React Native cross-platform carousel component based on FlatList
-* [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view) ⭐ 400 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07: React Native component for scaling an Image within the parent View
+* [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view) ⭐ 401 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-08: React Native component for scaling an Image within the parent View
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

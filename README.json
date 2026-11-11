@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:09:40Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29271,
+                "stars": 29272,
                 "topics": [
                   "animation-library",
                   "react",
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6542,
+                "stars": 6543,
                 "topics": [
                   "animate",
                   "animation",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:24:11Z",
+                "last_commit": "2026-11-10T22:28:16Z",
                 "open_issues": 226,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56634,
+                "stars": 56637,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -400,7 +400,7 @@
                 "open_issues": 378,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7437,
+                "stars": 7436,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T21:04:51Z",
-                "open_issues": 239,
+                "last_commit": "2026-11-11T09:57:01Z",
+                "open_issues": 238,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6768,
+                "stars": 6769,
                 "topics": [
                   "angular",
                   "form",
@@ -572,7 +572,7 @@
                 "open_issues": 56,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12303,
+                "stars": 12304,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -735,7 +735,7 @@
                 "open_issues": 35,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8985,
+                "stars": 8986,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -762,7 +762,7 @@
                 "open_issues": 17,
                 "owner": "jamiebuilds",
                 "repo": "unstated",
-                "stars": 7709,
+                "stars": 7710,
                 "topics": [
                   "management",
                   "react",
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6790,
+                "stars": 6791,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -1525,7 +1525,7 @@
                 "open_issues": 3,
                 "owner": "jaredpalmer",
                 "repo": "react-fns",
-                "stars": 3699,
+                "stars": 3698,
                 "topics": [
                   "hoc",
                   "react",
@@ -1571,7 +1571,7 @@
                 "open_issues": 34,
                 "owner": "ctrlplusb",
                 "repo": "react-sizeme",
-                "stars": 1960,
+                "stars": 1959,
                 "topics": [
                   "element-queries",
                   "element-query",
@@ -1855,33 +1855,6 @@
             },
             {
               "node_type": "item",
-              "title": "react-useragent",
-              "description": "Retrieve user agent data through render props",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Higher order component to add user agent information to your react components",
-                "homepage": null,
-                "id": 89261614,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2018-12-02T18:18:18Z",
-                "open_issues": 0,
-                "owner": "jonstuebe",
-                "repo": "react-useragent",
-                "stars": 16,
-                "topics": [
-                  "hoc",
-                  "javascript",
-                  "react",
-                  "reactjs",
-                  "useragent"
-                ]
-              },
-              "first_seen": "2026-08-28T14:45:46.993Z"
-            },
-            {
-              "node_type": "item",
               "title": "react-render-callback",
               "description": "Implement \"render props\" in your components to render anything",
               "children": [],
@@ -2001,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T10:38:57.600Z",
+    "last_updated": "2026-11-11T10:06:50.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

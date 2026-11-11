@@ -26,9 +26,9 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,271 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-01: 🙌 Helping react-motion and animated to become best friends
+* [react-spring](https://github.com/drcmda/react-spring) ⭐ 29,272 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-01: 🙌 Helping react-motion and animated to become best friends
 * [react-motion](https://github.com/chenglou/react-motion) ⭐ 21,913 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05: A spring that solves your animation problems.
-* [react-move](https://github.com/react-tools/react-move) ⭐ 6,542 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
+* [react-move](https://github.com/react-tools/react-move) ⭐ 6,543 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-07: Beautiful, data-driven animations for React
 * [react-morph](https://github.com/brunnolou/react-morph) ⭐ 2,545 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-20: Morphing Ui transitions made simple
 * [react-prop-transition](https://github.com/imranolas/react-prop-transition) ⭐ 57 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-06: Transition *almost* any value over time.
 
@@ -47,14 +47,14 @@ Awesome list of React components with render props and resources.
 
 ### Routing
 
-* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,634 | 🐛 226 | 🌐 TypeScript | 📅 2026-11-09: Declarative routing for React
+* [react-router](https://github.com/reacttraining/react-router) ⭐ 56,637 | 🐛 226 | 🌐 TypeScript | 📅 2026-11-10: Declarative routing for React
 * [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
 * [formik](https://github.com/jaredpalmer/formik) ⭐ 34,300 | 🐛 841 | 🌐 TypeScript | 📅 2025-11-10: Forms in React, without tears 😭
-* [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,437 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
-* [react-form](https://github.com/react-tools/react-form) ⭐ 6,768 | 🐛 239 | 🌐 TypeScript | 📅 2026-11-08: Simple, powerful, highly composable forms in React
+* [react-final-form](https://github.com/final-form/react-final-form) ⭐ 7,436 | 🐛 378 | 🌐 JavaScript | 📅 2026-05-30: 🏁 High performance subscription-based form state management for React
+* [react-form](https://github.com/react-tools/react-form) ⭐ 6,769 | 🐛 238 | 🌐 TypeScript | 📅 2026-11-11: Simple, powerful, highly composable forms in React
 * [react-form-validation](https://github.com/semmiverian/react-form-validation) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-23: Forms Validation with built in rules for validating your input.
 * [react-attire](https://github.com/gianmarcotoso/react-attire) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2018-11-03: Minimal state manager that simplifies React form handling
 * [informative](https://github.com/bradwestfall/informative) ⚠️ Archived: React Forms with ease. Use render-props to broadcast state
@@ -63,7 +63,7 @@ Awesome list of React components with render props and resources.
 
 ### Inputs
 
-* [downshift](https://github.com/paypal/downshift) ⭐ 12,303 | 🐛 56 | 🌐 JavaScript | 📅 2026-11-09: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+* [downshift](https://github.com/paypal/downshift) ⭐ 12,304 | 🐛 56 | 🌐 JavaScript | 📅 2026-11-09: 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 * [dayzed](https://github.com/deseretdigital/dayzed) ⭐ 667 | 🐛 9 | 🌐 JavaScript | 📅 2024-10-31: Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 * [react-compound-slider](https://github.com/sghall/react-compound-slider) ⭐ 618 | 🐛 24 | 🌐 TypeScript | 📅 2022-11-09: React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 * [@navjobs/upload](https://github.com/navjobs/upload) ⚠️ Archived: Higher order React components for file uploading (with progress) react file upload
@@ -72,8 +72,8 @@ Awesome list of React components with render props and resources.
 
 ### Data
 
-* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,985 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-04: Universal React Query Library
-* [unstated](https://github.com/thejameskyle/unstated) ⭐ 7,709 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11: Share state between components with the same stateful component API
+* [urql](https://github.com/FormidableLabs/urql) ⭐ 8,986 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-04: Universal React Query Library
+* [unstated](https://github.com/thejameskyle/unstated) ⭐ 7,710 | 🐛 17 | 🌐 JavaScript | 📅 2023-09-11: Share state between components with the same stateful component API
 * [react-apollo](https://github.com/apollographql/react-apollo) ⚠️ Archived: ♻️ React integration for Apollo Client
 * [constate](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-09: React context + state = constate
 * [react-powerplug](https://github.com/renatorib/react-powerplug) ⭐ 2,675 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-08: Renderless Pluggable State Containers
@@ -111,9 +111,9 @@ Awesome list of React components with render props and resources.
 ### Misc
 
 * [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,543 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24: Monitor when an element enters or leaves the browser viewport.
-* [react-fns](https://github.com/jaredpalmer/react-fns) ⭐ 3,699 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-24: Browser API's turned into declarative React components and HoC's
+* [react-fns](https://github.com/jaredpalmer/react-fns) ⭐ 3,698 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-24: Browser API's turned into declarative React components and HoC's
 * [react-media](https://github.com/reacttraining/react-media) ⭐ 2,418 | 🐛 8 | 🌐 JavaScript | 📅 2020-07-15: CSS media queries for React
-* [react-sizeme](https://github.com/ctrlplusb/react-sizeme) ⭐ 1,960 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04: Make your React Components aware of their width and height!
+* [react-sizeme](https://github.com/ctrlplusb/react-sizeme) ⭐ 1,959 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04: Make your React Components aware of their width and height!
 * [react-loops](https://github.com/leebyron/react-loops) ⭐ 1,156 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-30: Easily convert collections of any kind into lists of React elements with crystal clear syntax.
 * [react-albus](https://github.com/americanexpress/react-albus) ⭐ 1,108 | 🐛 16 | 🌐 JavaScript | 📅 2024-10-29: React component library for building declarative multi-step flows (wizards).
 * [react-loads](https://github.com/jxom/react-loads) ⚠️ Archived: A simple React component to handle loading state
@@ -125,10 +125,10 @@ Awesome list of React components with render props and resources.
 * [react-device-battery](https://github.com/zanonnicola/react-device-battery) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-25: 🔋 Notifies your React App of the device battery status
 * [react-google-calendar-events-list](https://github.com/VinSpee/react-gcal-events-list) ⭐ 20 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-26: React component which retrieves events from a google calendar.
 * [react-render-fam](https://github.com/danieldelcore/react-render-fam) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-01: Lit components for conditional rendering in React
-* [react-useragent](https://github.com/jonstuebe/react-useragent) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-02: Retrieve user agent data through render props
 * [react-render-callback](https://github.com/sastan/react-render-callback) ⭐ 9 | 🐛 16 | 🌐 JavaScript | 📅 2020-05-31: Implement "render props" in your components to render anything
 * [@foes/react-i18n-routing](https://github.com/FriendsOfECMAScript/ReactI18nRouting) ⭐ 6 | 🐛 15 | 🌐 JavaScript | 📅 2021-08-02: 🌐 Missing i18n components and functions to bridge react-router and react-intl
 * [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
+* [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
 
 ### React Native
 
@@ -137,4 +137,4 @@ Awesome list of React components with render props and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

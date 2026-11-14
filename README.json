@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:09:40Z",
-                "open_issues": 81,
+                "open_issues": 80,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29275,
+                "stars": 29282,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21911,
+                "stars": 21910,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33887,
+                "stars": 33884,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,8 +337,8 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T22:11:27Z",
-                "open_issues": 222,
+                "last_commit": "2026-11-13T20:42:00Z",
+                "open_issues": 223,
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56635,
@@ -369,7 +369,7 @@
                 "open_issues": 841,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34301,
+                "stars": 34299,
                 "topics": [
                   "form",
                   "formik",
@@ -427,10 +427,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-12T13:16:48Z",
-                "open_issues": 239,
+                "open_issues": 240,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6768,
+                "stars": 6767,
                 "topics": [
                   "angular",
                   "form",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:44:34Z",
+                "last_commit": "2026-11-14T07:27:31Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T10:23:33.228Z",
+    "last_updated": "2026-11-14T09:40:49.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

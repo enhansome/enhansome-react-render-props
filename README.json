@@ -21,7 +21,7 @@
                 "open_issues": 81,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29317,
+                "stars": 29318,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21912,
+                "stars": 21911,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33882,
+                "stars": 33881,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,8 +337,8 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T22:43:07Z",
-                "open_issues": 227,
+                "last_commit": "2026-11-18T18:39:06Z",
+                "open_issues": 225,
                 "owner": "remix-run",
                 "repo": "react-router",
                 "stars": 56641,
@@ -369,7 +369,7 @@
                 "open_issues": 841,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34298,
+                "stars": 34297,
                 "topics": [
                   "form",
                   "formik",
@@ -400,7 +400,7 @@
                 "open_issues": 379,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7435,
+                "stars": 7434,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T12:49:42Z",
-                "open_issues": 241,
+                "last_commit": "2026-11-19T08:30:11Z",
+                "open_issues": 242,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6770,
+                "stars": 6771,
                 "topics": [
                   "angular",
                   "form",
@@ -605,7 +605,7 @@
                 "open_issues": 9,
                 "owner": "deseretdigital",
                 "repo": "dayzed",
-                "stars": 667,
+                "stars": 668,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -732,10 +732,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T18:30:54Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8986,
+                "stars": 8987,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T03:50:00Z",
+                "last_commit": "2026-11-18T21:47:17Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -1300,7 +1300,7 @@
                 "open_issues": 26,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:55:54.187Z",
+    "last_updated": "2026-11-19T10:58:20.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

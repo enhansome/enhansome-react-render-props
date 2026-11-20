@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:09:40Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29318,
+                "stars": 29320,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21911,
+                "stars": 21910,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6542,
+                "stars": 6541,
                 "topics": [
                   "animate",
                   "animation",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33881,
+                "stars": 33879,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T18:39:06Z",
-                "open_issues": 225,
+                "last_commit": "2026-11-19T22:03:08Z",
+                "open_issues": 223,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56641,
+                "stars": 56645,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -369,7 +369,7 @@
                 "open_issues": 841,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34297,
+                "stars": 34296,
                 "topics": [
                   "form",
                   "formik",
@@ -400,7 +400,7 @@
                 "open_issues": 379,
                 "owner": "final-form",
                 "repo": "react-final-form",
-                "stars": 7434,
+                "stars": 7433,
                 "topics": [
                   "asynchronous",
                   "form",
@@ -430,7 +430,7 @@
                 "open_issues": 242,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6771,
+                "stars": 6773,
                 "topics": [
                   "angular",
                   "form",
@@ -605,7 +605,7 @@
                 "open_issues": 9,
                 "owner": "deseretdigital",
                 "repo": "dayzed",
-                "stars": 668,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -626,7 +626,7 @@
                 "open_issues": 24,
                 "owner": "sghall",
                 "repo": "react-compound-slider",
-                "stars": 618,
+                "stars": 616,
                 "topics": [
                   "javascript",
                   "multi-slider",
@@ -686,7 +686,7 @@
                 "open_issues": 4,
                 "owner": "kentcdodds",
                 "repo": "react-toggled",
-                "stars": 452,
+                "stars": 451,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -731,11 +731,11 @@
                 "id": 118695306,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T18:30:54Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-20T07:24:36Z",
+                "open_issues": 34,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8987,
+                "stars": 8986,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -787,7 +787,7 @@
                 "open_issues": 205,
                 "owner": "apollographql",
                 "repo": "react-apollo",
-                "stars": 6789,
+                "stars": 6788,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -810,7 +810,7 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:47:17Z",
+                "last_commit": "2026-11-20T03:20:01Z",
                 "open_issues": 6,
                 "owner": "diegohaz",
                 "repo": "constate",
@@ -845,7 +845,7 @@
                 "open_issues": 12,
                 "owner": "renatorib",
                 "repo": "react-powerplug",
-                "stars": 2675,
+                "stars": 2674,
                 "topics": [
                   "dumb",
                   "dumb-components",
@@ -929,7 +929,7 @@
                 "open_issues": 1,
                 "owner": "vesparny",
                 "repo": "statty",
-                "stars": 506,
+                "stars": 505,
                 "topics": [
                   "management",
                   "preact",
@@ -1036,7 +1036,7 @@
                 "open_issues": 1,
                 "owner": "JedWatson",
                 "repo": "react-value",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -1300,7 +1300,7 @@
                 "open_issues": 26,
                 "owner": "FormidableLabs",
                 "repo": "nuka-carousel",
-                "stars": 3098,
+                "stars": 3097,
                 "topics": [
                   "carousel",
                   "javascript",
@@ -1489,7 +1489,7 @@
                 "open_issues": 5,
                 "owner": "thebuilder",
                 "repo": "react-intersection-observer",
-                "stars": 5544,
+                "stars": 5543,
                 "topics": [
                   "hook",
                   "hooks",
@@ -1798,7 +1798,7 @@
                 "open_issues": 0,
                 "owner": "zanonnicola",
                 "repo": "react-device-battery",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "battery",
                   "javascript",
@@ -1848,7 +1848,7 @@
                 "open_issues": 4,
                 "owner": "danieldelcore",
                 "repo": "react-render-fam",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:58:20.474Z",
+    "last_updated": "2026-11-20T10:46:31.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",

@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:09:40Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29320,
+                "stars": 29324,
                 "topics": [
                   "animation-library",
                   "react",
@@ -48,7 +48,7 @@
                 "open_issues": 192,
                 "owner": "chenglou",
                 "repo": "react-motion",
-                "stars": 21910,
+                "stars": 21911,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -69,7 +69,7 @@
                 "open_issues": 28,
                 "owner": "sghall",
                 "repo": "react-move",
-                "stars": 6541,
+                "stars": 6540,
                 "topics": [
                   "animate",
                   "animation",
@@ -253,7 +253,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33879,
+                "stars": 33878,
                 "topics": [
                   "dnd",
                   "drag",
@@ -337,11 +337,11 @@
                 "id": 19872456,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T22:03:08Z",
-                "open_issues": 223,
+                "last_commit": "2026-11-20T21:23:41Z",
+                "open_issues": 206,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56645,
+                "stars": 56647,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:45:46.993Z"
@@ -426,11 +426,11 @@
                 "id": 75044525,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T08:30:11Z",
-                "open_issues": 242,
+                "last_commit": "2026-11-21T09:18:51Z",
+                "open_issues": 238,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6773,
+                "stars": 6772,
                 "topics": [
                   "angular",
                   "form",
@@ -735,7 +735,7 @@
                 "open_issues": 34,
                 "owner": "urql-graphql",
                 "repo": "urql",
-                "stars": 8986,
+                "stars": 8987,
                 "topics": [
                   "complex-apps",
                   "exchange",
@@ -810,8 +810,8 @@
                 "id": 127461319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T03:20:01Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-21T10:09:57Z",
+                "open_issues": 7,
                 "owner": "diegohaz",
                 "repo": "constate",
                 "stars": 4006,
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:46:31.692Z",
+    "last_updated": "2026-11-21T10:29:53.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of React components with render props",
